@@ -1,0 +1,7 @@
+Item,Category,Stock,Daily_Sales,Reorder_Level,Lead_Time_Days
+Widget A,Hardware,120,15,50,5
+Widget B,Hardware,45,7,40,4
+Gadget C,Electronics,200,25,100,6
+Gadget D,Electronics,15,5,30,3
+Part E,Mechanical,70,10,35,7
+
