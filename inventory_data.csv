@@ -1,7 +1,1851 @@
 Item,Category,Stock,Daily_Sales,Reorder_Level,Lead_Time_Days
-Widget A,Hardware,120,15,50,5
-Widget B,Hardware,45,7,40,4
-Gadget C,Electronics,200,25,100,6
-Gadget D,Electronics,15,5,30,3
-Part E,Mechanical,70,10,35,7
-
+"""While you Were Out"" Message Book, One Form per Page",General,12.0,2.6666666666666665,4.0,6
+"#10 Gummed Flap White Envelopes, 100/Box",General,16.5,2.75,5.5,3
+#10 Self-Seal White Envelopes,General,15.0,2.5,5.0,6
+"#10 White Business Envelopes,4 1/8 x 9 1/2",General,48.0,4.571428571428571,16.0,4
+"#10- 4 1/8"" x 9 1/2"" Recycled Envelopes",General,55.5,3.7,18.5,6
+"#10- 4 1/8"" x 9 1/2"" Security-Tint Envelopes",General,31.5,2.625,10.5,5
+"#10-4 1/8"" x 9 1/2"" Premium Diagonal Seam Envelopes",General,19.5,6.5,6.5,4
+#6 3/4 Gummed Flap White Envelopes,General,13.5,2.25,4.5,3
+"1.7 Cubic Foot Compact ""Cube"" Office Refrigerators",General,21.0,2.3333333333333335,7.0,5
+"1/4 Fold Party Design Invitations & White Envelopes, 24 8-1/2"" X 11"" Cards, 25 Env./Pack",General,10.5,3.5,3.5,4
+12 Colored Short Pencils,General,12.0,2.6666666666666665,4.0,7
+12-1/2 Diameter Round Wall Clock,General,54.0,4.5,18.0,4
+14-7/8 x 11 Blue Bar Computer Printout Paper,General,15.0,2.5,5.0,5
+2300 Heavy-Duty Transfer File Systems by Perma,General,24.0,4.0,8.0,4
+"24 Capacity Maxi Data Binder Racks, Pearl",General,28.5,4.75,9.5,5
+24-Hour Round Wall Clock,General,40.5,4.5,13.5,7
+3-ring staple pack,General,39.0,4.333333333333333,13.0,4
+3.6 Cubic Foot Counter Height Office Refrigerator,General,27.0,3.6,9.0,6
+36X48 HARDFLOOR CHAIRMAT,General,31.5,3.5,10.5,4
+"3D Systems Cube Printer, 2nd Generation, Magenta",General,16.5,5.5,5.5,3
+"3D Systems Cube Printer, 2nd Generation, White",General,4.5,1.5,1.5,5
+3M Hangers With Command Adhesive,General,49.5,4.125,16.5,7
+3M Office Air Cleaner,General,15.0,5.0,5.0,6
+3M Organizer Strips,General,39.0,3.7142857142857144,13.0,7
+3M Polarizing Light Filter Sleeves,General,21.0,3.5,7.0,5
+"3M Polarizing Task Lamp with Clamp Arm, Light Gray",General,24.0,4.0,8.0,7
+3M Replacement Filter for Office Air Cleaner for 20' x 33' Room,General,21.0,3.5,7.0,3
+4009 Highlighters,General,9.0,6.0,3.0,7
+4009 Highlighters by Sanford,General,66.0,5.5,22.0,7
+50 Colored Long Pencils,General,21.0,2.8,7.0,7
+"6"" Cubicle Wall Clock, Black",General,28.5,4.75,9.5,4
+9-3/4 Diameter Round Wall Clock,General,51.0,4.25,17.0,6
+"ACCOHIDE 3-Ring Binder, Blue, 1""",General,66.0,3.3846153846153846,22.0,6
+ACCOHIDE Binder by Acco,General,31.5,5.25,10.5,5
+APC 7 Outlet Network SurgeArrest Surge Protector,General,30.0,2.5,10.0,6
+ARKON Windshield Dashboard Air Vent Car Mount Holder,General,21.0,3.5,7.0,4
+AT&T 1070 Corded Phone,General,18.0,4.0,6.0,3
+AT&T 1080 Corded phone,General,27.0,2.5714285714285716,9.0,4
+AT&T 1080 Phone,General,19.5,4.333333333333333,6.5,7
+AT&T 17929 Lendline Telephone,General,52.5,3.5,17.5,5
+AT&T 841000 Phone,General,42.0,4.0,14.0,7
+AT&T CL2909,General,12.0,2.6666666666666665,4.0,5
+AT&T CL82213,General,25.5,3.4,8.5,5
+AT&T CL83451 4-Handset Telephone,General,15.0,2.5,5.0,6
+AT&T EL51110 DECT,General,4.5,3.0,1.5,4
+AT&T SB67148 SynJ,General,12.0,2.6666666666666665,4.0,3
+AT&T TR1909W,General,22.5,3.75,7.5,5
+Aastra 57i VoIP phone,General,39.0,3.7142857142857144,13.0,7
+Aastra 6757i CT Wireless VoIP phone,General,24.0,2.6666666666666665,8.0,3
+Acco 3-Hole Punch,General,54.0,4.0,18.0,4
+Acco 6 Outlet Guardian Basic Surge Suppressor,General,10.5,3.5,3.5,5
+Acco 6 Outlet Guardian Premium Plus Surge Suppressor,General,46.5,5.166666666666667,15.5,3
+Acco 6 Outlet Guardian Premium Surge Suppressor,General,52.5,4.375,17.5,7
+Acco 6 Outlet Guardian Standard Surge Suppressor,General,22.5,3.0,7.5,6
+"Acco 7-Outlet Masterpiece Power Center, Wihtout Fax/Phone Line Protection",General,46.5,4.428571428571429,15.5,4
+"Acco Banker's Clasps, 5 3/4""-Long",General,22.5,3.0,7.5,7
+"Acco Clips to Go Binder Clips, 24 Clips in Two Sizes",General,28.5,3.8,9.5,6
+Acco D-Ring Binder w/DublLock,General,46.5,3.4444444444444446,15.5,3
+"Acco Data Flex Cable Posts For Top & Bottom Load Binders, 6"" Capacity",General,58.5,3.9,19.5,6
+Acco Economy Flexible Poly Round Ring Binder,General,9.0,1.5,3.0,4
+Acco Expandable Hanging Binders,General,16.5,2.75,5.5,4
+"Acco Flexible ACCOHIDE Square Ring Data Binder, Dark Blue, 11 1/2"" X 14"" 7/8""",General,54.0,3.6,18.0,6
+"Acco Four Pocket Poly Ring Binder with Label Holder, Smoke, 1""",General,42.0,4.666666666666667,14.0,7
+Acco Glide Clips,General,7.5,5.0,2.5,6
+Acco Hanging Data Binders,General,25.5,2.4285714285714284,8.5,4
+Acco Hot Clips Clips to Go,General,34.5,3.8333333333333335,11.5,4
+"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 14 7/8"" X 11""",General,55.5,5.285714285714286,18.5,3
+"Acco PRESSTEX Data Binder with Storage Hooks, Dark Blue, 9 1/2"" X 11""",General,34.5,5.75,11.5,5
+"Acco PRESSTEX Data Binder with Storage Hooks, Light Blue, 9 1/2"" X 11""",General,25.5,3.4,8.5,4
+Acco Perma 2700 Stacking Storage Drawers,General,12.0,2.0,4.0,4
+Acco Perma 3000 Stacking Storage Drawers,General,31.5,3.5,10.5,3
+Acco Perma 4000 Stacking Storage Drawers,General,46.5,2.8181818181818183,15.5,4
+"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Dark Blue",General,36.0,4.8,12.0,3
+"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Executive Red",General,55.5,4.625,18.5,5
+"Acco Pressboard Covers with Storage Hooks, 14 7/8"" x 11"", Light Blue",General,67.5,4.090909090909091,22.5,7
+"Acco Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Executive Red",General,42.0,3.111111111111111,14.0,5
+"Acco Recycled 2"" Capacity Laser Printer Hanging Data Binders",General,15.0,2.5,5.0,7
+Acco Side-Punched Conventional Columnar Pads,General,22.5,3.75,7.5,7
+"Acco Six-Outlet Power Strip, 4' Cord Length",General,61.5,4.555555555555555,20.5,7
+Acco Smartsocket Color-Coded Six-Outlet AC Adapter Model Surge Protectors,General,21.0,3.5,7.0,6
+"Acco Smartsocket Table Surge Protector, 6 Color-Coded Adapter Outlets",General,12.0,2.6666666666666665,4.0,3
+Acco Suede Grain Vinyl Round Ring Binder,General,43.5,3.625,14.5,7
+Acco Translucent Poly Ring Binders,General,46.5,3.875,15.5,6
+Accohide Poly Flexible Ring Binders,General,51.0,4.25,17.0,7
+"Acme 10"" Easy Grip Assistive Scissors",General,39.0,3.25,13.0,3
+Acme Box Cutter Scissors,General,46.5,5.166666666666667,15.5,6
+"Acme Design Line 8"" Stainless Steel Bent Scissors w/Champagne Handles, 3-1/8"" Cut",General,10.5,2.3333333333333335,3.5,4
+Acme Design Stainless Steel Bent Scissors,General,19.5,4.333333333333333,6.5,7
+Acme Elite Stainless Steel Scissors,General,18.0,2.4,6.0,6
+Acme Forged Steel Scissors with Black Enamel Handles,General,48.0,4.0,16.0,7
+Acme Galleria Hot Forged Steel Scissors with Colored Handles,General,19.5,4.333333333333333,6.5,4
+"Acme Hot Forged Carbon Steel Scissors with Nickel-Plated Handles, 3 7/8"" Cut, 8""L",General,54.0,5.142857142857143,18.0,7
+Acme Kleen Earth Office Shears,General,18.0,2.4,6.0,4
+Acme Kleencut Forged Steel Scissors,General,10.5,2.3333333333333335,3.5,3
+Acme Office Executive Series Stainless Steel Trimmers,General,31.5,3.0,10.5,3
+Acme Preferred Stainless Steel Scissors,General,24.0,4.0,8.0,3
+Acme Rosewood Handle Letter Opener,General,18.0,4.0,6.0,6
+Acme Serrated Blade Letter Opener,General,7.5,2.5,2.5,3
+Acme Softgrip Scissors,General,34.5,5.75,11.5,6
+Acme Stainless Steel Office Snips,General,19.5,3.25,6.5,7
+Acme Tagit Stainless Steel Antibacterial Scissors,General,33.0,3.6666666666666665,11.0,4
+Acme Titanium Bonded Scissors,General,19.5,2.6,6.5,3
+Acme Value Line Scissors,General,33.0,2.2,11.0,3
+Acrylic Self-Standing Desk Frames,General,55.5,4.625,18.5,7
+"Adams ""While You Were Out"" Message Pads",General,36.0,4.8,12.0,6
+"Adams Phone Message Book, 200 Message Capacity, 8 1/16 x 11",General,49.5,4.125,16.5,3
+"Adams Phone Message Book, Professional, 400 Message Capacity, 5 3/6 x 11",General,21.0,4.666666666666667,7.0,3
+"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 200/Messages",General,48.0,4.571428571428571,16.0,5
+"Adams Telephone Message Book W/Dividers/Space For Phone Numbers, 5 1/4""X8 1/2"", 300/Messages",General,36.0,2.4,12.0,5
+"Adams Telephone Message Book w/Frequently-Called Numbers Space, 400 Messages per Book",General,42.0,4.0,14.0,4
+"Adams Telephone Message Books, 5 1/4 x 11",General,22.5,3.0,7.5,4
+"Adams Write n' Stick Phone Message Book, 11"" X 5 1/4"", 200 Messages",General,12.0,2.6666666666666665,4.0,6
+Adjustable Depth Letter/Legal Cart,General,67.5,3.75,22.5,3
+Adjustable Personal File Tote,General,27.0,3.6,9.0,3
+Adtran 1202752G1,General,27.0,3.6,9.0,7
+"Advantus 10-Drawer Portable Organizer, Chrome Metal Frame, Smoke Drawers",General,27.0,4.5,9.0,4
+"Advantus Employee of the Month Certificate Frame, 11 x 13-1/2",General,42.0,5.6,14.0,7
+Advantus Map Pennant Flags and Round Head Tacks,General,37.5,4.166666666666667,12.5,3
+Advantus Motivational Note Cards,General,30.0,4.0,10.0,6
+Advantus Panel Wall Acrylic Frame,General,30.0,4.0,10.0,7
+Advantus Panel Wall Certificate Holder - 8.5x11,General,34.5,3.8333333333333335,11.5,5
+Advantus Plastic Paper Clips,General,70.5,4.7,23.5,5
+Advantus Push Pins,General,40.5,3.857142857142857,13.5,4
+"Advantus Push Pins, Aluminum Head",General,36.0,4.8,12.0,3
+Advantus Rolling Drawer Organizers,General,46.5,5.166666666666667,15.5,7
+Advantus Rolling Storage Box,General,40.5,2.7,13.5,6
+Advantus SlideClip Paper Clips,General,22.5,5.0,7.5,6
+Advantus T-Pin Paper Clips,General,24.0,3.2,8.0,7
+Airmail Envelopes,General,28.5,3.1666666666666665,9.5,3
+Akro Stacking Bins,General,19.5,2.1666666666666665,6.5,3
+Akro-Mils 12-Gallon Tote,General,19.5,3.25,6.5,3
+"Alliance Big Bands Rubber Bands, 12/Pack",General,22.5,3.75,7.5,4
+Alliance Rubber Bands,General,12.0,4.0,4.0,3
+"Alliance Super-Size Bands, Assorted Sizes",General,40.5,6.75,13.5,7
+Alphabetical Labels for Top Tab Filing,General,55.5,4.111111111111111,18.5,7
+Aluminum Document Frame,General,33.0,4.4,11.0,7
+Aluminum Screw Posts,General,61.5,3.727272727272727,20.5,4
+AmazonBasics 3-Button USB Wired Mouse,General,21.0,2.8,7.0,3
+American Pencil,General,31.5,3.5,10.5,6
+Ames Color-File Green Diamond Border X-ray Mailers,General,27.0,4.5,9.0,7
+Ampad #10 Peel & Seel Holiday Envelopes,General,18.0,4.0,6.0,3
+"Ampad Evidence Wirebond Steno Books, 6"" x 9""",General,21.0,3.5,7.0,4
+"Ampad Gold Fibre Wirebound Steno Books, 6"" x 9"", Gregg Ruled",General,37.5,3.125,12.5,4
+"Ampad Phone Message Book, Recycled, 400 Message Capacity, 5 ¾ x 11",General,30.0,4.0,10.0,5
+"Ampad Poly Cover Wirebound Steno Book, 6"" x 9"" Assorted Colors, Gregg Ruled",General,13.5,2.25,4.5,6
+Anderson Hickey Conga Table Tops & Accessories,General,7.5,2.5,2.5,4
+"Angle-D Binders with Locking Rings, Label Holders",General,63.0,4.2,21.0,7
+Angle-D Ring Binders,General,21.0,2.3333333333333335,7.0,6
+Anker 24W Portable Micro USB Car Charger,General,12.0,4.0,4.0,7
+Anker 36W 4-Port USB Wall Charger Travel Power Adapter for iPhone 5s 5c 5,General,33.0,3.6666666666666665,11.0,7
+Anker Astro 15000mAh USB Portable Charger,General,19.5,2.6,6.5,5
+Anker Astro Mini 3000mAh Ultra-Compact Portable Charger,General,13.5,2.25,4.5,4
+Anker Ultra-Slim Mini Bluetooth 3.0 Wireless Keyboard,General,39.0,5.2,13.0,4
+Anker Ultrathin Bluetooth Wireless Keyboard Aluminum Cover with Stand ,General,25.5,4.25,8.5,3
+Apple EarPods with Remote and Mic,General,15.0,2.5,5.0,5
+Apple iPhone 5,General,36.0,4.0,12.0,5
+Apple iPhone 5C,General,22.5,3.75,7.5,5
+Apple iPhone 5S,General,16.5,2.75,5.5,3
+Array Memo Cubes,General,16.5,3.6666666666666665,5.5,7
+"Array Parchment Paper, Assorted Colors",General,22.5,3.75,7.5,7
+Artistic Insta-Plaque,General,15.0,3.3333333333333335,5.0,6
+Assorted Color Push Pins,General,31.5,2.625,10.5,5
+Astroparche Fine Business Paper,General,43.5,4.833333333333333,14.5,4
+"Ativa D5772 2-Line 5.8GHz Digital Expandable Corded/Cordless Phone System with Answering & Caller ID/Call Waiting, Black/Silver",General,18.0,3.0,6.0,6
+Ativa MDM8000 8-Sheet Micro-Cut Shredder,General,16.5,5.5,5.5,5
+Ativa V4110MDD Micro-Cut Shredder,General,16.5,5.5,5.5,4
+"Atlantic Metals Mobile 2-Shelf Bookcases, Custom Colors",General,4.5,1.5,1.5,5
+"Atlantic Metals Mobile 3-Shelf Bookcases, Custom Colors",General,52.5,4.375,17.5,6
+"Atlantic Metals Mobile 4-Shelf Bookcases, Custom Colors",General,40.5,4.5,13.5,4
+"Atlantic Metals Mobile 5-Shelf Bookcases, Custom Colors",General,39.0,3.25,13.0,3
+Avanti 1.7 Cu. Ft. Refrigerator,General,36.0,6.0,12.0,4
+Avanti 4.4 Cu. Ft. Refrigerator,General,36.0,3.4285714285714284,12.0,3
+Avaya 4621SW VoIP phone,General,18.0,3.0,6.0,4
+Avaya 5410 Digital phone,General,19.5,3.25,6.5,5
+Avaya 5420 Digital phone,General,18.0,4.0,6.0,4
+Avaya IP Phone 1140E VoIP phone,General,7.5,5.0,2.5,7
+"Avery 05222 Permanent Self-Adhesive File Folder Labels for Typewriters, on Rolls, White, 250/Roll",General,7.5,2.5,2.5,3
+"Avery 3 1/2"" Diskette Storage Pages, 10/Pack",General,40.5,4.5,13.5,3
+"Avery 4027 File Folder Labels for Dot Matrix Printers, 5000 Labels per Box, White",General,64.5,3.909090909090909,21.5,6
+Avery 473,General,36.0,4.0,12.0,7
+Avery 474,General,45.0,3.3333333333333335,15.0,4
+Avery 475,General,27.0,4.5,9.0,3
+Avery 476,General,55.5,3.7,18.5,6
+Avery 477,General,30.0,5.0,10.0,4
+Avery 478,General,27.0,4.5,9.0,5
+Avery 479,General,10.5,2.3333333333333335,3.5,6
+Avery 48,General,22.5,5.0,7.5,6
+Avery 480,General,36.0,4.0,12.0,5
+Avery 481,General,45.0,6.0,15.0,5
+Avery 482,General,6.0,2.0,2.0,3
+Avery 483,General,28.5,3.1666666666666665,9.5,3
+Avery 484,General,6.0,4.0,2.0,4
+Avery 485,General,76.5,6.375,25.5,3
+Avery 486,General,36.0,2.6666666666666665,12.0,6
+Avery 487,General,37.5,3.5714285714285716,12.5,6
+Avery 488,General,25.5,2.8333333333333335,8.5,4
+Avery 489,General,24.0,3.2,8.0,7
+Avery 49,General,36.0,4.0,12.0,7
+Avery 490,General,19.5,2.6,6.5,4
+Avery 491,General,18.0,4.0,6.0,7
+Avery 492,General,30.0,4.0,10.0,3
+Avery 493,General,19.5,3.25,6.5,3
+Avery 494,General,34.5,3.8333333333333335,11.5,7
+Avery 495,General,24.0,4.0,8.0,5
+Avery 496,General,21.0,3.5,7.0,7
+Avery 497,General,12.0,4.0,4.0,4
+Avery 498,General,19.5,4.333333333333333,6.5,5
+Avery 499,General,60.0,3.6363636363636362,20.0,3
+Avery 5,General,3.0,2.0,1.0,6
+Avery 50,General,30.0,4.0,10.0,7
+Avery 500,General,12.0,4.0,4.0,3
+Avery 501,General,33.0,2.75,11.0,6
+Avery 502,General,10.5,2.3333333333333335,3.5,6
+Avery 503,General,22.5,3.75,7.5,6
+Avery 505,General,42.0,4.0,14.0,7
+Avery 506,General,25.5,5.666666666666667,8.5,5
+Avery 507,General,15.0,5.0,5.0,6
+Avery 508,General,28.5,3.1666666666666665,9.5,6
+Avery 509,General,19.5,3.25,6.5,5
+Avery 51,General,24.0,3.2,8.0,3
+Avery 510,General,10.5,2.3333333333333335,3.5,4
+Avery 511,General,30.0,3.3333333333333335,10.0,5
+Avery 512,General,48.0,6.4,16.0,5
+Avery 513,General,33.0,4.4,11.0,5
+Avery 514,General,25.5,4.25,8.5,7
+Avery 515,General,7.5,2.5,2.5,3
+Avery 516,General,22.5,3.75,7.5,3
+Avery 517,General,19.5,3.25,6.5,3
+Avery 518,General,52.5,4.375,17.5,4
+Avery 519,General,27.0,3.0,9.0,4
+Avery 52,General,28.5,3.1666666666666665,9.5,6
+Avery 520,General,22.5,3.0,7.5,4
+"Avery Address/Shipping Labels for Typewriters, 4"" x 2""",General,42.0,4.0,14.0,5
+Avery Arch Ring Binders,General,60.0,4.0,20.0,6
+Avery Binder Labels,General,12.0,2.0,4.0,3
+Avery Binding System Hidden Tab Executive Style Index Sets,General,39.0,3.25,13.0,3
+Avery Durable Binders,General,75.0,4.166666666666667,25.0,4
+"Avery Durable Plastic 1"" Binders",General,51.0,4.857142857142857,17.0,6
+Avery Durable Poly Binders,General,49.5,5.5,16.5,6
+Avery Durable Slant Ring Binders,General,28.5,3.8,9.5,4
+Avery Durable Slant Ring Binders With Label Holder,General,54.0,4.0,18.0,7
+"Avery Durable Slant Ring Binders, No Labels",General,54.0,4.0,18.0,7
+Avery File Folder Labels,General,66.0,3.3846153846153846,22.0,6
+"Avery Flip-Chart Easel Binder, Black",General,25.5,4.25,8.5,7
+Avery Fluorescent Highlighter Four-Color Set,General,36.0,3.0,12.0,6
+"Avery Framed View Binder, EZD Ring (Locking), Navy, 1 1/2""",General,28.5,3.1666666666666665,9.5,7
+Avery Hanging File Binders,General,39.0,4.333333333333333,13.0,6
+Avery Heavy-Duty EZD  Binder With Locking Rings,General,42.0,4.666666666666667,14.0,7
+Avery Heavy-Duty EZD View Binder with Locking Rings,General,61.5,4.1,20.5,3
+"Avery Hi-Liter Comfort Grip Fluorescent Highlighter, Yellow Ink",General,6.0,2.0,2.0,7
+"Avery Hi-Liter EverBold Pen Style Fluorescent Highlighters, 4/Pack",General,46.5,5.166666666666667,15.5,6
+Avery Hi-Liter Fluorescent Desk Style Markers,General,9.0,3.0,3.0,4
+"Avery Hi-Liter GlideStik Fluorescent Highlighter, Yellow Ink",General,13.5,4.5,4.5,3
+Avery Hi-Liter Pen Style Six-Color Fluorescent Set,General,3.0,2.0,1.0,7
+Avery Hi-Liter Smear-Safe Highlighters,General,36.0,4.0,12.0,6
+Avery Hidden Tab Dividers for Binding Systems,General,36.0,3.4285714285714284,12.0,7
+Avery Hole Reinforcements,General,48.0,3.5555555555555554,16.0,7
+Avery Legal 4-Ring Binder,General,24.0,4.0,8.0,3
+Avery Metallic Poly Binders,General,46.5,5.166666666666667,15.5,4
+Avery Non-Stick Binders,General,106.5,3.55,35.5,5
+Avery Non-Stick Heavy Duty View Round Locking Ring Binders,General,18.0,4.0,6.0,5
+Avery Personal Creations Heavyweight Cards,General,16.5,3.6666666666666665,5.5,7
+Avery Poly Binder Pockets,General,51.0,4.25,17.0,6
+Avery Premier Heavy-Duty Binder with Round Locking Rings,General,31.5,3.0,10.5,4
+Avery Printable Repositionable Plastic Tabs,General,24.0,2.6666666666666665,8.0,5
+Avery Recycled Flexi-View Covers for Binding Systems,General,48.0,4.571428571428571,16.0,3
+Avery Reinforcements for Hole-Punch Pages,General,61.5,5.125,20.5,3
+Avery Round Ring Poly Binders,General,25.5,2.8333333333333335,8.5,3
+Avery Self-Adhesive Photo Pockets for Polaroid Photos,General,61.5,3.727272727272727,20.5,5
+"Avery Trapezoid Extra Heavy Duty 4"" Binders",General,22.5,3.75,7.5,5
+"Avery Trapezoid Ring Binder, 3"" Capacity, Black, 1040 sheets",General,33.0,3.142857142857143,11.0,5
+"Avery Triangle Shaped Sheet Lifters, Black, 2/Pack",General,37.5,4.166666666666667,12.5,6
+Avery White Multi-Purpose Labels,General,30.0,5.0,10.0,3
+Avoid Verbal Orders Carbonless Minifold Book,General,31.5,4.2,10.5,7
+BIC Brite Liner Grip Highlighters,General,25.5,3.4,8.5,4
+"BIC Brite Liner Grip Highlighters, Assorted, 5/Pack",General,43.5,4.833333333333333,14.5,6
+BIC Brite Liner Highlighters,General,34.5,3.2857142857142856,11.5,3
+"BIC Brite Liner Highlighters, Chisel Tip",General,31.5,3.5,10.5,7
+BIC Liqua Brite Liner,General,40.5,4.5,13.5,3
+"BOSTON Model 1800 Electric Pencil Sharpeners, Putty/Woodgrain",General,45.0,5.0,15.0,4
+"BOSTON Ranger #55 Pencil Sharpener, Black",General,40.5,3.0,13.5,4
+BPI Conference Tables,General,39.0,5.2,13.0,5
+Bady BDG101FRU Card Printer,General,21.0,3.5,7.0,7
+Bagged Rubber Bands,General,31.5,4.2,10.5,4
+Balt Solid Wood Rectangular Table,General,16.5,2.75,5.5,4
+Balt Solid Wood Round Tables,General,28.5,4.75,9.5,6
+Balt Split Level Computer Training Table,General,18.0,2.4,6.0,5
+Barrel Sharpener,General,28.5,4.75,9.5,3
+"Barricks 18"" x 48"" Non-Folding Utility Table with Bottom Storage Shelf",General,24.0,3.2,8.0,5
+"Barricks Non-Folding Utility Table with Steel Legs, Laminate Tops",General,3.0,2.0,1.0,6
+"Belkin 19"" Center-Weighted Shelf, Gray",General,24.0,4.0,8.0,5
+"Belkin 19"" Vented Equipment Shelf, Black",General,46.5,3.1,15.5,3
+"Belkin 325VA UPS Surge Protector, 6'",General,19.5,3.25,6.5,3
+Belkin 5 Outlet SurgeMaster Power Centers,General,60.0,4.0,20.0,4
+Belkin 6 Outlet Metallic Surge Strip,General,43.5,3.2222222222222223,14.5,4
+Belkin 7 Outlet SurgeMaster II,General,24.0,5.333333333333333,8.0,4
+Belkin 7 Outlet SurgeMaster Surge Protector with Phone Protection,General,7.5,5.0,2.5,6
+Belkin 7-Outlet SurgeMaster Home Series,General,15.0,2.0,5.0,5
+Belkin 8 Outlet Surge Protector,General,45.0,4.285714285714286,15.0,5
+Belkin 8 Outlet SurgeMaster II Gold Surge Protector,General,22.5,3.0,7.5,6
+Belkin 8 Outlet SurgeMaster II Gold Surge Protector with Phone Protection,General,12.0,8.0,4.0,6
+Belkin 8-Outlet Premiere SurgeMaster II Surge Protectors,General,6.0,2.0,2.0,6
+Belkin F5C206VTEL 6 Outlet Surge,General,33.0,3.142857142857143,11.0,6
+Belkin F8E887 USB Wired Ergonomic Keyboard,General,31.5,2.625,10.5,5
+Belkin F9G930V10-GRY 9 Outlet Surge,General,24.0,3.2,8.0,5
+Belkin F9H710-06 7 Outlet SurgeMaster Surge Protector,General,43.5,3.625,14.5,5
+Belkin F9M820V08 8 Outlet Surge,General,22.5,5.0,7.5,4
+Belkin F9S820V06 8 Outlet Surge,General,25.5,4.25,8.5,4
+Belkin Grip Candy Sheer Case / Cover for iPhone 5 and 5S,General,12.0,2.6666666666666665,4.0,5
+Belkin OmniView SE Rackmount Kit,General,10.5,3.5,3.5,3
+Belkin Premiere Surge Master II 8-outlet surge protector,General,39.0,3.7142857142857144,13.0,4
+Belkin QODE FastFit Bluetooth Keyboard,General,13.5,4.5,4.5,6
+"Belkin SportFit Armband For iPhone 5s/5c, Fuchsia",General,31.5,4.2,10.5,6
+Belkin Standard 104 key USB Keyboard,General,31.5,3.5,10.5,6
+Belkin iPhone and iPad Lightning Cable,General,10.5,3.5,3.5,3
+Berol Giant Pencil Sharpener,General,25.5,4.25,8.5,7
+Bestar Classic Bookcase,General,46.5,3.875,15.5,5
+Bevis 36 x 72 Conference Tables,General,60.0,5.0,20.0,4
+Bevis 44 x 96 Conference Tables,General,30.0,4.0,10.0,5
+Bevis Boat-Shaped Conference Table,General,22.5,2.5,7.5,5
+"Bevis Oval Conference Table, Walnut",General,54.0,4.5,18.0,4
+Bevis Rectangular Conference Tables,General,19.5,3.25,6.5,3
+"Bevis Round Bullnose 29"" High Table Top",General,36.0,4.8,12.0,5
+Bevis Round Conference Room Tables and Bases,General,6.0,2.0,2.0,7
+Bevis Round Conference Table Top & Single Column Base,General,28.5,3.8,9.5,3
+"Bevis Round Conference Table Top, X-Base",General,30.0,3.3333333333333335,10.0,7
+Bevis Steel Folding Chairs,General,36.0,4.0,12.0,6
+"Bevis Traditional Conference Table Top, Plinth Base",General,13.5,3.0,4.5,7
+Binder Clips by OIC,General,40.5,3.857142857142857,13.5,5
+Binder Posts,General,24.0,2.6666666666666665,8.0,6
+Binding Machine Supplies,General,48.0,3.5555555555555554,16.0,6
+"Binney & Smith Crayola Metallic Colored Pencils, 8-Color Set",General,30.0,2.857142857142857,10.0,5
+"Binney & Smith Crayola Metallic Crayons, 16-Color Pack",General,7.5,2.5,2.5,7
+"Binney & Smith inkTank Desk Highlighter, Chisel Tip, Yellow, 12/Box",General,33.0,4.4,11.0,4
+"Binney & Smith inkTank Erasable Desk Highlighter, Chisel Tip, Yellow, 12/Box",General,12.0,2.6666666666666665,4.0,3
+"Binney & Smith inkTank Erasable Pocket Highlighter, Chisel Tip, Yellow",General,18.0,4.0,6.0,6
+Bionaire 99.97% HEPA Air Cleaner,General,24.0,4.0,8.0,5
+Bionaire Personal Warm Mist Humidifier/Vaporizer,General,16.5,3.6666666666666665,5.5,7
+Black & Decker Filter for Double Action Dustbuster Cordless Vac BLDV7210,General,42.0,4.666666666666667,14.0,4
+"Black Avery Memo-Size 3-Ring Binder, 5 1/2"" x 8 1/2""",General,24.0,4.0,8.0,3
+"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",General,16.5,2.75,5.5,6
+"Black Print Carbonless Snap-Off Rapid Letter, 8 1/2"" x 7""",General,28.5,4.75,9.5,7
+BlackBerry Q10,General,40.5,4.5,13.5,7
+Blackstonian Pencils,General,28.5,4.75,9.5,3
+Blue Parrot B250XT Professional Grade Wireless Bluetooth Headset with,General,31.5,5.25,10.5,6
+"Blue String-Tie & Button Interoffice Envelopes, 10 x 13",General,33.0,3.142857142857143,11.0,5
+"BlueLounge Milo Smartphone Stand, White/Metallic",General,18.0,4.0,6.0,5
+Bose SoundLink Bluetooth Speaker,General,27.0,3.6,9.0,5
+Boston 1645 Deluxe Heavier-Duty Electric Pencil Sharpener,General,40.5,3.857142857142857,13.5,3
+Boston 16701 Slimline Battery Pencil Sharpener,General,9.0,3.0,3.0,5
+Boston 16750 Black Compact Battery Pencil Sharpener,General,7.5,2.5,2.5,6
+Boston 16765 Mini Stand Up Battery Pencil Sharpener,General,15.0,2.5,5.0,3
+Boston 16801 Nautilus Battery Pencil Sharpener,General,34.5,3.8333333333333335,11.5,3
+Boston 1730 StandUp Electric Pencil Sharpener,General,12.0,2.6666666666666665,4.0,7
+Boston 1799 Powerhouse Electric Pencil Sharpener,General,22.5,5.0,7.5,5
+"Boston 1827 Commercial Additional Cutter, Drive Gear & Gear Rack for 1606",General,4.5,1.5,1.5,7
+Boston 1900 Electric Pencil Sharpener,General,1.5,1.0,0.5,7
+Boston 19500 Mighty Mite Electric Pencil Sharpener,General,25.5,4.25,8.5,4
+"Boston Electric Pencil Sharpener, Model 1818, Charcoal Black",General,30.0,2.5,10.0,3
+Boston Heavy-Duty Trimline Electric Pencil Sharpeners,General,37.5,5.0,12.5,5
+Boston Home & Office Model 2000 Electric Pencil Sharpeners,General,19.5,2.1666666666666665,6.5,6
+Boston KS Multi-Size Manual Pencil Sharpener,General,37.5,3.5714285714285716,12.5,3
+"Boston Model 1800 Electric Pencil Sharpener, Gray",General,22.5,5.0,7.5,6
+"Boston School Pro Electric Pencil Sharpener, 1670",General,48.0,4.571428571428571,16.0,5
+BoxOffice By Design Rectangular and Half-Moon Meeting Room Tables,General,22.5,5.0,7.5,6
+"Bravo II Megaboss 12-Amp Hard Body Upright, Replacement Belts, 2 Belts per Pack",General,43.5,5.8,14.5,3
+Bretford CR4500 Series Slim Rectangular Table,General,43.5,3.625,14.5,3
+Bretford CR8500 Series Meeting Room Furniture,General,31.5,3.5,10.5,5
+Bretford Rectangular Conference Table Tops,General,69.0,3.8333333333333335,23.0,6
+Bretford Just In Time Height-Adjustable Multi-Task Work Tables,General,25.5,4.25,8.5,3
+"Brites Rubber Bands, 1 1/2 oz. Box",General,10.5,2.3333333333333335,3.5,6
+Brother DCP1000 Digital 3 in 1 Multifunction Machine,General,28.5,2.7142857142857144,9.5,3
+"Brother MFC-9340CDW LED All-In-One Printer, Copier Scanner",General,4.5,3.0,1.5,3
+Brown Kraft Recycled Envelopes,General,22.5,3.0,7.5,4
+Bulldog Table or Wall-Mount Pencil Sharpener,General,19.5,4.333333333333333,6.5,6
+Bulldog Vacuum Base Pencil Sharpener,General,46.5,5.166666666666667,15.5,7
+Bush Advantage Collection Racetrack Conference Table,General,49.5,4.714285714285714,16.5,3
+Bush Advantage Collection Round Conference Table,General,28.5,4.75,9.5,5
+"Bush Andora Bookcase, Maple/Graphite Gray Finish",General,51.0,3.7777777777777777,17.0,5
+"Bush Andora Conference Table, Maple/Graphite Gray Finish",General,18.0,3.0,6.0,4
+"Bush Birmingham Collection Bookcase, Dark Cherry",General,13.5,9.0,4.5,6
+"Bush Cubix Collection Bookcases, Fully Assembled",General,6.0,1.3333333333333333,2.0,7
+"Bush Cubix Conference Tables, Fully Assembled",General,28.5,4.75,9.5,3
+"Bush Heritage Pine Collection 5-Shelf Bookcase, Albany Pine Finish, *Special Order",General,51.0,4.25,17.0,6
+Bush Mission Pointe Library,General,9.0,2.0,3.0,4
+"Bush Saratoga Collection 5-Shelf Bookcase, Hanover Cherry, *Special Order",General,1.5,1.0,0.5,4
+Bush Somerset Collection Bookcase,General,18.0,3.0,6.0,5
+"Bush Westfield Collection Bookcases, Dark Cherry Finish",General,21.0,4.666666666666667,7.0,6
+"Bush Westfield Collection Bookcases, Dark Cherry Finish, Fully Assembled",General,4.5,3.0,1.5,6
+"Bush Westfield Collection Bookcases, Fully Assembled",General,27.0,3.0,9.0,5
+"Bush Westfield Collection Bookcases, Medium Cherry Finish",General,48.0,3.5555555555555554,16.0,4
+C-Line Cubicle Keepers Polyproplyene Holder With Velcro Backings,General,46.5,3.875,15.5,6
+"C-Line Cubicle Keepers Polyproplyene Holder w/Velcro Back, 8-1/2x11, 25/Bx",General,19.5,3.25,6.5,6
+"C-Line Magnetic Cubicle Keepers, Clear Polypropylene",General,42.0,4.0,14.0,6
+"C-Line Peel & Stick Add-On Filing Pockets, 8-3/4 x 5-1/8, 10/Pack",General,31.5,5.25,10.5,4
+Cameo Buff Policy Envelopes,General,42.0,3.5,14.0,7
+"Canon Color ImageCLASS MF8580Cdw Wireless Laser All-In-One Printer, Copier, Scanner",General,4.5,3.0,1.5,3
+Canon Image Class D660 Copier,General,10.5,3.5,3.5,3
+Canon Imageclass D680 Copier / Fax,General,24.0,3.2,8.0,6
+Canon PC-428 Personal Copier,General,37.5,4.166666666666667,12.5,3
+Canon PC1060 Personal Laser Copier,General,28.5,4.75,9.5,5
+Canon PC1080F Personal Copier,General,16.5,2.75,5.5,6
+Canon PC170 Desktop Personal Copier,General,9.0,3.0,3.0,7
+Canon PC940 Copier,General,22.5,5.0,7.5,7
+Canon imageCLASS 2200 Advanced Copier,General,30.0,4.0,10.0,4
+Canon imageCLASS MF7460 Monochrome Digital Laser Multifunction Copier,General,3.0,2.0,1.0,7
+Canvas Sectional Post Binders,General,42.0,4.666666666666667,14.0,7
+Cardinal EasyOpen D-Ring Binders,General,60.0,5.0,20.0,7
+"Cardinal HOLDit! Binder Insert Strips,Extra Strips",General,61.5,4.555555555555555,20.5,5
+Cardinal Hold-It CD Pocket,General,18.0,3.0,6.0,4
+Cardinal Holdit Business Card Pockets,General,37.5,3.125,12.5,6
+Cardinal Holdit Data Disk Pockets,General,24.0,5.333333333333333,8.0,3
+Cardinal Poly Pocket Divider Pockets for Ring Binders,General,22.5,3.75,7.5,3
+"Cardinal Slant-D Ring Binder, Heavy Gauge Vinyl",General,55.5,3.7,18.5,5
+Cardinal Slant-D Ring Binders,General,25.5,3.4,8.5,7
+"Career Cubicle Clock, 8 1/4"", Black",General,15.0,3.3333333333333335,5.0,6
+"Carina 42""Hx23 3/4""W Media Storage Unit",General,33.0,2.75,11.0,5
+Carina Double Wide Media Storage Towers in Natural & Black,General,58.5,3.25,19.5,3
+Carina Media Storage Towers in Natural & Black,General,30.0,4.0,10.0,3
+"Carina Mini System Audio Rack, Model AR050B",General,39.0,4.333333333333333,13.0,6
+Case Logic 2.4GHz Wireless Keyboard,General,40.5,3.375,13.5,3
+Catalog Binders with Expanding Posts,General,54.0,4.5,18.0,5
+Cherry 142-key Programmable Keyboard,General,6.0,4.0,2.0,5
+"Chromcraft 48"" x 96"" Racetrack Double Pedestal Table",General,33.0,3.6666666666666665,11.0,6
+"Chromcraft Bull-Nose Wood 48"" x 96"" Rectangular Conference Tables",General,16.5,1.8333333333333333,5.5,6
+Chromcraft Bull-Nose Wood Oval Conference Tables & Bases,General,40.5,5.4,13.5,5
+"Chromcraft Bull-Nose Wood Round Conference Table Top, Wood Base",General,27.0,3.0,9.0,4
+Chromcraft Rectangular Conference Tables,General,45.0,3.3333333333333335,15.0,6
+Chromcraft Round Conference Tables,General,91.5,4.6923076923076925,30.5,7
+Cisco 8961 IP Phone Charcoal,General,4.5,3.0,1.5,5
+Cisco 8x8 Inc. 6753i IP Business Phone System,General,39.0,4.333333333333333,13.0,5
+Cisco 9971 IP Video Phone Charcoal,General,24.0,8.0,8.0,6
+Cisco CP-7937G Unified IP Conference Station Phone,General,6.0,2.0,2.0,5
+Cisco Desktop Collaboration Experience DX650 IP Video Phone,General,7.5,5.0,2.5,7
+Cisco IP Phone 7961G-GE VoIP phone,General,22.5,3.75,7.5,6
+Cisco IP Phone 7961G VoIP phone - Dark gray,General,18.0,4.0,6.0,7
+Cisco SPA 501G IP Phone,General,4.5,3.0,1.5,7
+Cisco SPA 502G IP Phone,General,31.5,4.2,10.5,6
+Cisco SPA112 2 Port Phone Adapter,General,16.5,3.6666666666666665,5.5,3
+Cisco SPA301,General,45.0,3.3333333333333335,15.0,7
+Cisco SPA508G,General,22.5,3.0,7.5,5
+Cisco SPA525G2 5-Line IP Phone,General,12.0,8.0,4.0,6
+Cisco SPA525G2 IP Phone - Wireless,General,39.0,5.2,13.0,5
+Cisco Small Business SPA 502G VoIP phone,General,16.5,2.75,5.5,5
+Cisco TelePresence System EX90 Videoconferencing Unit,General,9.0,6.0,3.0,3
+Cisco Unified IP Phone 7945G VoIP phone,General,39.0,4.333333333333333,13.0,5
+Clarity 53712,General,21.0,3.5,7.0,3
+Classic Ivory Antique Telephone ZL1810,General,6.0,2.0,2.0,4
+Clear Mylar Reinforcing Strips,General,43.5,4.142857142857143,14.5,4
+ClearOne CHATAttach 160 - speaker phone,General,19.5,3.25,6.5,4
+ClearOne Communications CHAT 70 OC Speaker Phone,General,18.0,3.0,6.0,5
+ClearSounds CSC500 Amplified Spirit Phone Corded phone,General,28.5,3.1666666666666665,9.5,6
+Clearsounds A400,General,16.5,3.6666666666666665,5.5,4
+Col-Erase Pencils with Erasers,General,10.5,3.5,3.5,4
+Color-Coded Legal Exhibit Labels,General,4.5,1.5,1.5,5
+Colored Envelopes,General,24.0,3.2,8.0,5
+Colored Push Pins,General,22.5,3.0,7.5,7
+Coloredge Poster Frame,General,31.5,3.5,10.5,3
+Colorific Watercolor Pencils,General,16.5,3.6666666666666665,5.5,6
+"Commercial WindTunnel Clean Air Upright Vacuum, Replacement Belts, Filtration Bags",General,25.5,2.4285714285714284,8.5,3
+Compact Automatic Electric Letter Opener,General,39.0,3.25,13.0,7
+"Companion Letter/Legal File, Black",General,25.5,3.4,8.5,7
+Computer Printout Index Tabs,General,22.5,3.75,7.5,5
+Computer Printout Paper with Letter-Trim Fine Perforations,General,6.0,4.0,2.0,3
+Computer Printout Paper with Letter-Trim Perforations,General,36.0,3.4285714285714284,12.0,4
+"Computer Room Manger, 14""",General,33.0,3.142857142857143,11.0,6
+"Conquest 14 Commercial Heavy-Duty Upright Vacuum, Collection System, Accessory Kit",General,18.0,3.0,6.0,4
+Contemporary Borderless Frame,General,9.0,3.0,3.0,3
+Contemporary Wood/Metal Frame,General,27.0,4.5,9.0,7
+"Contico 72""H Heavy-Duty Storage System",General,24.0,3.2,8.0,5
+"Contract Clock, 14"", Brown",General,31.5,4.2,10.5,3
+Convenience Packs of Business Envelopes,General,27.0,3.0,9.0,6
+Crate-A-Files,General,27.0,2.5714285714285716,9.0,3
+"Crayola Anti Dust Chalk, 12/Pack",General,52.5,5.0,17.5,6
+Crayola Colored Pencils,General,60.0,3.6363636363636362,20.0,6
+Cubify CubeX 3D Printer Double Head Print,General,13.5,3.0,4.5,6
+Cubify CubeX 3D Printer Triple Head Print,General,6.0,4.0,2.0,5
+Cush Cases Heavy Duty Rugged Cover Case for Samsung Galaxy S5 - Purple,General,25.5,2.8333333333333335,8.5,7
+Cyber Acoustics AC-202b Speech Recognition Stereo Headset,General,16.5,2.2,5.5,6
+DAX Black Cherry Wood-Tone Poster Frame,General,36.0,3.0,12.0,7
+"DAX Charcoal/Nickel-Tone Document Frame, 5 x 7",General,34.5,3.2857142857142856,11.5,4
+DAX Clear Channel Poster Frame,General,15.0,3.3333333333333335,5.0,6
+"DAX Contemporary Wood Frame with Silver Metal Mat, Desktop, 11 x 14 Size",General,22.5,3.0,7.5,5
+"DAX Copper Panel Document Frame, 5 x 7 Size",General,27.0,3.6,9.0,4
+DAX Cubicle Frames - 8x10,General,39.0,5.2,13.0,7
+"DAX Cubicle Frames, 8-1/2 x 11",General,25.5,4.25,8.5,4
+"DAX Executive Solid Wood Document Frame, Desktop or Hang, Mahogany, 5 x 7",General,25.5,3.4,8.5,3
+"DAX Metal Frame, Desktop, Stepped-Edge",General,16.5,2.2,5.5,6
+DAX Natural Wood-Tone Poster Frame,General,34.5,4.6,11.5,3
+DAX Solid Wood Frames,General,19.5,4.333333333333333,6.5,7
+"DAX Two-Tone Rosewood/Black Document Frame, Desktop, 5 x 7",General,37.5,3.125,12.5,5
+DAX Two-Tone Silver Metal Document Frame,General,19.5,2.1666666666666665,6.5,4
+"DAX Value U-Channel Document Frames, Easel Back",General,54.0,3.6,18.0,7
+DAX Wood Document Frame,General,60.0,4.444444444444445,20.0,6
+DAX Wood Document Frame.,General,24.0,4.0,8.0,6
+DIXON Oriole Pencils,General,28.5,3.1666666666666665,9.5,5
+DIXON Ticonderoga Erasable Checking Pencils,General,30.0,2.857142857142857,10.0,4
+DMI Arturo Collection Mission-style Design Wood Chair,General,55.5,3.3636363636363638,18.5,3
+DMI Eclipse Executive Suite Bookcases,General,40.5,4.5,13.5,6
+DXL Angle-View Binders with Locking Rings by Samsill,General,52.5,3.5,17.5,3
+"DXL Angle-View Binders with Locking Rings, Black",General,39.0,6.5,13.0,6
+DYMO CardScan Personal V9 Business Card Scanner,General,16.5,3.6666666666666665,5.5,6
+"Dana Fluorescent Magnifying Lamp, White, 36""",General,21.0,3.5,7.0,5
+Dana Halogen Swing-Arm Architect Lamp,General,42.0,4.666666666666667,14.0,3
+Dana Swing-Arm Lamps,General,22.5,2.142857142857143,7.5,7
+"DataProducts Ampli Magnifier Task Lamp, Black,",General,31.5,4.2,10.5,4
+Dax Clear Box Frame,General,21.0,2.3333333333333335,7.0,3
+Decoflex Hanging Personal Folder File,General,4.5,3.0,1.5,3
+"Decoflex Hanging Personal Folder File, Blue",General,52.5,3.888888888888889,17.5,4
+Deflect-O Glasstique Clear Desk Accessories,General,25.5,5.666666666666667,8.5,4
+Deflect-o DuraMat Antistatic Studded Beveled Mat for Medium Pile Carpeting,General,27.0,3.6,9.0,3
+"Deflect-o DuraMat Lighweight, Studded, Beveled Mat for Low Pile Carpeting",General,25.5,2.8333333333333335,8.5,6
+"Deflect-o EconoMat Nonstudded, No Bevel Mat",General,21.0,4.666666666666667,7.0,5
+"Deflect-o EconoMat Studded, No Bevel Mat for Low Pile Carpeting",General,49.5,3.6666666666666665,16.5,5
+Deflect-o Glass Clear Studded Chair Mats,General,39.0,3.7142857142857144,13.0,6
+"Deflect-o RollaMat Studded, Beveled Mat for Medium Pile Carpeting",General,39.0,4.333333333333333,13.0,6
+"Deflect-o SuperTray Unbreakable Stackable Tray, Letter, Black",General,27.0,4.5,9.0,7
+Dell Slim USB Multimedia Keyboard,General,7.5,2.5,2.5,7
+Deluxe Chalkboard Eraser Cleaner,General,25.5,3.4,8.5,5
+Deluxe Heavy-Duty Vinyl Round Ring Binder,General,49.5,4.714285714285714,16.5,5
+Deluxe Rollaway Locking File with Drawer,General,21.0,2.8,7.0,4
+Design Ebony Sketching Pencil,General,16.5,3.6666666666666665,5.5,4
+Desktop 3-Pocket Hot File,General,7.5,2.5,2.5,6
+Dexim XPower Skin Super-Thin Power Case for iPhone 5 - Black,General,16.5,3.6666666666666665,5.5,3
+Digium D40 VoIP phone,General,40.5,3.0,13.5,4
+Disposable Triple-Filter Dust Bags,General,15.0,2.5,5.0,4
+"Dixon My First Ticonderoga Pencil, #2",General,28.5,4.75,9.5,3
+"Dixon Prang Watercolor Pencils, 10-Color Set with Brush",General,40.5,3.857142857142857,13.5,7
+Dixon Ticonderoga Core-Lock Colored Pencils,General,42.0,4.0,14.0,5
+"Dixon Ticonderoga Core-Lock Colored Pencils, 48-Color Set",General,19.5,6.5,6.5,3
+"Dixon Ticonderoga Erasable Colored Pencil Set, 12-Color",General,21.0,7.0,7.0,6
+"Dixon Ticonderoga Maple Cedar Pencil, #2",General,12.0,2.6666666666666665,4.0,4
+Dixon Ticonderoga Pencils,General,19.5,4.333333333333333,6.5,4
+Document Clip Frames,General,9.0,3.0,3.0,6
+"Dot Matrix Printer Tape Reel Labels, White, 5000/Box",General,54.0,4.5,18.0,4
+"Dual Level, Single-Width Filing Carts",General,64.5,4.777777777777778,21.5,6
+Durable Pressboard Binders,General,16.5,5.5,5.5,5
+Easy-staple paper,General,225.0,3.260869565217391,75.0,7
+"Eaton Premium Continuous-Feed Paper, 25% Cotton, Letter Size, White, 1000 Shts/Box",General,31.5,2.1,10.5,7
+"Eberhard Faber 3 1/2"" Golf Pencils",General,30.0,2.857142857142857,10.0,5
+EcoTones Memo Sheets,General,22.5,5.0,7.5,5
+Economy #2 Pencils,General,19.5,3.25,6.5,6
+Economy Binders,General,28.5,4.75,9.5,3
+Economy Rollaway Files,General,30.0,2.857142857142857,10.0,3
+"Eldon ""L"" Workstation Diamond Chairmat",General,28.5,4.75,9.5,7
+Eldon 100 Class Desk Accessories,General,27.0,4.5,9.0,3
+Eldon 200 Class Desk Accessories,General,33.0,3.142857142857143,11.0,4
+"Eldon 200 Class Desk Accessories, Black",General,18.0,6.0,6.0,3
+"Eldon 200 Class Desk Accessories, Burgundy",General,37.5,5.0,12.5,3
+"Eldon 200 Class Desk Accessories, Smoke",General,33.0,5.5,11.0,3
+"Eldon 300 Class Desk Accessories, Black",General,9.0,3.0,3.0,5
+"Eldon 400 Class Desk Accessories, Black Carbon",General,33.0,3.6666666666666665,11.0,4
+Eldon 500 Class Desk Accessories,General,25.5,2.8333333333333335,8.5,3
+Eldon Advantage Chair Mats for Low to Medium Pile Carpets,General,19.5,2.6,6.5,7
+Eldon Advantage Foldable Chair Mats for Low Pile Carpets,General,15.0,3.3333333333333335,5.0,7
+Eldon Antistatic Chair Mats for Low to Medium Pile Carpets,General,21.0,3.5,7.0,6
+"Eldon Base for stackable storage shelf, platinum",General,37.5,3.5714285714285716,12.5,3
+Eldon Cleatmat Chair Mats for Medium Pile Carpets,General,12.0,2.0,4.0,7
+Eldon Cleatmat Plus Chair Mats for High Pile Carpets,General,30.0,4.0,10.0,5
+Eldon ClusterMat Chair Mat with Cordless Antistatic Protection,General,27.0,3.6,9.0,4
+"Eldon Delta Triangular Chair Mat, 52"" x 58"", Clear",General,25.5,2.8333333333333335,8.5,4
+Eldon Econocleat Chair Mats for Low Pile Carpets,General,12.0,4.0,4.0,4
+Eldon Executive Woodline II Cherry Finish Desk Accessories,General,9.0,3.0,3.0,3
+"Eldon Executive Woodline II Desk Accessories, Mahogany",General,25.5,3.4,8.5,7
+"Eldon Expressions Desk Accessory, Wood Pencil Holder, Oak",General,22.5,3.75,7.5,4
+"Eldon Expressions Desk Accessory, Wood Photo Frame, Mahogany",General,30.0,3.3333333333333335,10.0,6
+Eldon Expressions Mahogany Wood Desk Collection,General,22.5,7.5,7.5,4
+"Eldon Expressions Punched Metal & Wood Desk Accessories, Black & Cherry",General,30.0,4.0,10.0,3
+"Eldon Expressions Punched Metal & Wood Desk Accessories, Pewter & Cherry",General,19.5,4.333333333333333,6.5,4
+"Eldon Expressions Wood Desk Accessories, Oak",General,49.5,2.75,16.5,3
+"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",General,34.5,4.6,11.5,3
+"Eldon Expressions Wood and Plastic Desk Accessories, Oak",General,22.5,3.0,7.5,5
+Eldon File Chest Portable File,General,7.5,5.0,2.5,4
+Eldon Fold 'N Roll Cart System,General,36.0,4.8,12.0,6
+Eldon Gobal File Keepers,General,36.0,4.0,12.0,6
+Eldon Image Series Black Desk Accessories,General,18.0,2.4,6.0,7
+"Eldon Image Series Desk Accessories, Burgundy",General,46.5,3.875,15.5,4
+"Eldon Image Series Desk Accessories, Ebony",General,27.0,3.6,9.0,3
+"Eldon Imàge Series Desk Accessories, Clear",General,25.5,5.666666666666667,8.5,4
+Eldon Jumbo ProFile Portable File Boxes Graphite/Black,General,4.5,3.0,1.5,6
+Eldon Mobile Mega Data Cart  Mega Stackable  Add-On Trays,General,45.0,5.0,15.0,4
+Eldon Pizzaz Desk Accessories,General,28.5,4.75,9.5,7
+Eldon Portable Mobile Manager,General,51.0,3.7777777777777777,17.0,3
+Eldon ProFile File 'N Store Portable File Tub Letter/Legal Size Black,General,52.5,5.0,17.5,5
+Eldon Radial Chair Mat for Low to Medium Pile Carpets,General,30.0,3.3333333333333335,10.0,4
+"Eldon Regeneration Recycled Desk Accessories, Black",General,13.5,3.0,4.5,4
+"Eldon Regeneration Recycled Desk Accessories, Smoke",General,31.5,4.2,10.5,3
+Eldon Shelf Savers Cubes and Bins,General,67.5,5.625,22.5,7
+Eldon Simplefile Box Office,General,45.0,3.75,15.0,3
+"Eldon Spacemaker Box, Quick-Snap Lid, Clear",General,27.0,3.0,9.0,5
+"Eldon Stackable Tray, Side-Load, Legal, Smoke",General,25.5,3.4,8.5,6
+Eldon Wave Desk Accessories,General,91.5,4.357142857142857,30.5,4
+Electrix 20W Halogen Replacement Bulb for Zoom-In Desk Lamp,General,19.5,2.6,6.5,4
+"Electrix Architect's Clamp-On Swing Arm Lamp, Black",General,49.5,6.6,16.5,7
+Electrix Fluorescent Magnifier Lamps & Weighted Base,General,16.5,5.5,5.5,7
+Electrix Halogen Magnifier Lamp,General,25.5,2.8333333333333335,8.5,3
+"Electrix Incandescent Magnifying Lamp, Black",General,7.5,2.5,2.5,5
+"Elite 5"" Scissors",General,36.0,3.4285714285714284,12.0,4
+Embossed Ink Jet Note Cards,General,22.5,3.75,7.5,5
+Enermax Acrylux Wireless Keyboard,General,43.5,4.833333333333333,14.5,6
+Enermax Aurora Lite Keyboard,General,31.5,4.2,10.5,7
+Enermax Briskie RF Wireless Keyboard and Mouse Combo,General,36.0,4.8,12.0,5
+Epson Perfection V600 Photo Scanner,General,4.5,3.0,1.5,5
+Epson TM-T88V Direct Thermal Printer - Monochrome - Desktop,General,15.0,5.0,5.0,4
+"Epson WorkForce WF-2530 All-in-One Printer, Copier Scanner",General,6.0,2.0,2.0,3
+Eureka Disposable Bags for Sanitaire Vibra Groomer I Upright Vac,General,3.0,2.0,1.0,3
+"Eureka Hand Vacuum, Bagless",General,6.0,4.0,2.0,4
+"Eureka Recycled Copy Paper 8 1/2"" x 11"", Ream",General,28.5,3.1666666666666665,9.5,4
+Eureka Sanitaire  Commercial Upright,General,18.0,4.0,6.0,5
+"Eureka Sanitaire  Multi-Pro Heavy-Duty Upright, Disposable Bags",General,33.0,4.4,11.0,5
+Eureka The Boss Cordless Rechargeable Stick Vac,General,28.5,3.1666666666666665,9.5,7
+"Eureka The Boss Lite 10-Amp Upright Vacuum, Blue",General,19.5,3.25,6.5,4
+"Eureka The Boss Plus 12-Amp Hard Box Upright Vacuum, Red",General,30.0,3.3333333333333335,10.0,7
+Euro Pro Shark Stick Mini Vacuum,General,16.5,3.6666666666666665,5.5,5
+Euro-Pro Shark Turbo Vacuum,General,36.0,4.0,12.0,3
+"Executive Impressions 10"" Spectator Wall Clock",General,33.0,4.4,11.0,4
+"Executive Impressions 12"" Wall Clock",General,21.0,2.3333333333333335,7.0,4
+"Executive Impressions 13"" Chairman Wall Clock",General,16.5,3.6666666666666665,5.5,6
+"Executive Impressions 13"" Clairmont Wall Clock",General,30.0,2.5,10.0,4
+"Executive Impressions 13-1/2"" Indoor/Outdoor Wall Clock",General,4.5,1.5,1.5,6
+"Executive Impressions 14""",General,25.5,4.25,8.5,6
+"Executive Impressions 14"" Contract Wall Clock",General,25.5,2.4285714285714284,8.5,4
+"Executive Impressions 14"" Contract Wall Clock with Quartz Movement",General,12.0,4.0,4.0,5
+"Executive Impressions 14"" Two-Color Numerals Wall Clock",General,24.0,2.6666666666666665,8.0,5
+"Executive Impressions 16-1/2"" Circular Wall Clock",General,6.0,2.0,2.0,3
+"Executive Impressions 8-1/2"" Career Panel/Partition Cubicle Clock",General,10.5,3.5,3.5,6
+Executive Impressions Supervisor Wall Clock,General,31.5,5.25,10.5,3
+Faber Castell Col-Erase Pencils,General,12.0,1.6,4.0,7
+Fashion Color Clasp Envelopes,General,22.5,5.0,7.5,7
+Fellowes 8 Outlet Superior Workstation Surge Protector,General,30.0,4.0,10.0,3
+Fellowes 8 Outlet Superior Workstation Surge Protector w/o Phone/Fax/Modem Protection,General,37.5,5.0,12.5,4
+Fellowes Advanced 8 Outlet Surge Suppressor with Phone/Fax Protection,General,15.0,3.3333333333333335,5.0,3
+Fellowes Advanced Computer Series Surge Protectors,General,22.5,2.5,7.5,7
+Fellowes Bankers Box Recycled Super Stor/Drawer,General,36.0,3.4285714285714284,12.0,4
+Fellowes Bankers Box Staxonsteel Drawer File/Stacking System,General,64.5,5.375,21.5,5
+Fellowes Bankers Box Stor/Drawer Steel Plus,General,75.0,4.166666666666667,25.0,4
+Fellowes Bases and Tops For Staxonsteel/High-Stak Systems,General,39.0,2.6,13.0,4
+Fellowes Basic Home/Office Series Surge Protectors,General,61.5,4.555555555555555,20.5,3
+Fellowes Binding Cases,General,46.5,6.2,15.5,6
+Fellowes Black Plastic Comb Bindings,General,51.0,3.7777777777777777,17.0,3
+Fellowes Command Center 5-outlet power strip,General,22.5,3.75,7.5,6
+Fellowes Desktop Hanging File Manager,General,22.5,3.75,7.5,5
+Fellowes Econo/Stor Drawers,General,10.5,3.5,3.5,3
+Fellowes High-Stak Drawer Files,General,39.0,3.25,13.0,7
+Fellowes Mighty 8 Compact Surge Protector,General,28.5,3.1666666666666665,9.5,4
+"Fellowes Mobile File Cart, Black",General,60.0,4.0,20.0,6
+Fellowes Neat Ideas Storage Cubes,General,24.0,2.2857142857142856,8.0,6
+Fellowes Officeware Wire Shelving,General,82.5,5.0,27.5,7
+Fellowes PB200 Plastic Comb Binding Machine,General,57.0,4.222222222222222,19.0,4
+Fellowes PB300 Plastic Comb Binding Machine,General,40.5,4.5,13.5,7
+Fellowes PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind,General,46.5,3.1,15.5,3
+"Fellowes Personal Hanging Folder Files, Navy",General,36.0,6.0,12.0,5
+Fellowes Powershred HS-440 4-Sheet High Security Shredder,General,25.5,5.666666666666667,8.5,6
+"Fellowes Premier Superior Surge Suppressor, 10-Outlet, With Phone and Remote",General,31.5,3.0,10.5,3
+Fellowes Presentation Covers for Comb Binding Machines,General,21.0,7.0,7.0,6
+Fellowes Recycled Storage Drawers,General,18.0,4.0,6.0,5
+"Fellowes Smart Surge Ten-Outlet Protector, Platinum",General,4.5,3.0,1.5,5
+Fellowes Staxonsteel Drawer Files,General,39.0,3.7142857142857144,13.0,3
+Fellowes Stor/Drawer Steel Plus Storage Drawers,General,55.5,4.625,18.5,3
+"Fellowes Strictly Business Drawer File, Letter/Legal Size",General,49.5,4.714285714285714,16.5,7
+Fellowes Super Stor/Drawer,General,27.0,4.5,9.0,6
+Fellowes Super Stor/Drawer Files,General,40.5,3.0,13.5,5
+Fellowes Superior 10 Outlet Split Surge Protector,General,45.0,3.3333333333333335,15.0,4
+"Fellowes Twister Kit, Gray/Clear, 3/pkg",General,63.0,4.2,21.0,5
+File Shuttle I and Handi-File,General,19.5,4.333333333333333,6.5,3
+"File Shuttle II and Handi-File, Black",General,51.0,4.857142857142857,17.0,4
+First Data FD10 PIN Pad,General,36.0,4.8,12.0,4
+First Data TMFD35 PIN Pad,General,6.0,2.0,2.0,4
+"Fiskars 8"" Scissors, 2/Pack",General,21.0,3.5,7.0,4
+Fiskars Home & Office Scissors,General,16.5,3.6666666666666665,5.5,4
+Fiskars Softgrip Scissors,General,42.0,4.0,14.0,4
+Fiskars Spring-Action Scissors,General,9.0,1.5,3.0,5
+Flat Face Poster Frame,General,76.5,4.25,25.5,7
+Flexible Leather- Look Classic Collection Ring Binder,General,19.5,2.1666666666666665,6.5,3
+"Floodlight Indoor Halogen Bulbs, 1 Bulb per Pack, 60 Watts",General,36.0,4.0,12.0,4
+Fluorescent Highlighters by Dixon,General,39.0,5.2,13.0,6
+G.E. Halogen Desk Lamp Bulbs,General,16.5,2.2,5.5,5
+G.E. Longer-Life Indoor Recessed Floodlight Bulbs,General,24.0,2.6666666666666665,8.0,3
+GBC Binding covers,General,16.5,3.6666666666666665,5.5,7
+"GBC Clear Cover, 8-1/2 x 11, unpunched, 25 covers per pack",General,22.5,3.75,7.5,3
+GBC DocuBind 200 Manual Binding Machine,General,22.5,3.75,7.5,6
+GBC DocuBind 300 Electric Binding Machine,General,34.5,2.875,11.5,7
+GBC DocuBind P100 Manual Binding Machine,General,40.5,3.375,13.5,5
+GBC DocuBind P400 Electric Binding System,General,40.5,4.5,13.5,4
+GBC DocuBind P50 Personal Binding Machine,General,75.0,5.0,25.0,3
+GBC DocuBind TL200 Manual Binding Machine,General,34.5,3.8333333333333335,11.5,7
+GBC DocuBind TL300 Electric Binding System,General,55.5,3.3636363636363638,18.5,7
+GBC Durable Plastic Covers,General,51.0,4.25,17.0,5
+GBC Ibimaster 500 Manual ProClick Binding System,General,72.0,5.333333333333333,24.0,6
+GBC Imprintable Covers,General,54.0,4.5,18.0,3
+GBC Instant Index System for Binding Systems,General,28.5,3.8,9.5,5
+GBC Instant Report Kit,General,75.0,3.8461538461538463,25.0,4
+"GBC Laser Imprintable Binding System Covers, Desert Sand",General,25.5,2.8333333333333335,8.5,6
+GBC Linen Binding Covers,General,27.0,3.0,9.0,4
+GBC Personal VeloBind Strips,General,40.5,3.857142857142857,13.5,6
+GBC Plastic Binding Combs,General,45.0,3.0,15.0,3
+GBC Plasticlear Binding Covers,General,34.5,3.2857142857142856,11.5,6
+GBC Poly Designer Binding Covers,General,27.0,3.0,9.0,6
+"GBC Pre-Punched Binding Paper, Plastic, White, 8-1/2"" x 11""",General,46.5,3.875,15.5,6
+GBC Premium Transparent Covers with Diagonal Lined Pattern,General,100.5,4.785714285714286,33.5,6
+"GBC Prepunched Paper, 19-Hole, for Binding Systems, 24-lb",General,57.0,4.75,19.0,6
+GBC Prestige Therm-A-Bind Covers,General,58.5,3.9,19.5,3
+GBC ProClick 150 Presentation Binding System,General,33.0,4.4,11.0,4
+GBC ProClick Punch Binding System,General,46.5,4.428571428571429,15.5,4
+GBC ProClick Spines for 32-Hole Punch,General,18.0,2.4,6.0,7
+GBC Recycled Grain Textured Covers,General,30.0,4.0,10.0,3
+GBC Recycled Regency Composition Covers,General,39.0,4.333333333333333,13.0,3
+GBC Recycled VeloBinder Covers,General,63.0,5.25,21.0,6
+GBC Standard Plastic Binding Systems Combs,General,19.5,2.6,6.5,3
+GBC Standard Plastic Binding Systems' Combs,General,45.0,3.75,15.0,4
+"GBC Standard Recycled Report Covers, Clear Plastic Sheets",General,76.5,4.25,25.5,3
+GBC Standard Therm-A-Bind Covers,General,51.0,2.8333333333333335,17.0,3
+GBC Therma-A-Bind 250T Electric Binding System,General,18.0,6.0,6.0,5
+GBC Twin Loop Wire Binding Elements,General,70.5,4.7,23.5,3
+"GBC Twin Loop Wire Binding Elements, 9/16"" Spine, Black",General,52.5,3.888888888888889,17.5,4
+GBC VeloBind Cover Sets,General,63.0,3.8181818181818183,21.0,5
+GBC VeloBinder Electric Binding Machine,General,22.5,3.75,7.5,3
+GBC VeloBinder Manual Binding System,General,45.0,3.75,15.0,6
+GBC VeloBinder Strips,General,30.0,5.0,10.0,3
+"GBC Velobind Prepunched Cover Sets, Regency Series",General,49.5,4.714285714285714,16.5,4
+"GBC White Gloss Covers, Plain Front",General,46.5,4.428571428571429,15.5,6
+GBC Wire Binding Combs,General,39.0,3.7142857142857144,13.0,4
+GBC Wire Binding Strips,General,21.0,2.8,7.0,5
+GE 2-Jack Phone Line Splitter,General,16.5,3.6666666666666665,5.5,3
+GE 30522EE2,General,15.0,3.3333333333333335,5.0,6
+GE 30524EE4,General,48.0,3.5555555555555554,16.0,3
+"GE 4 Foot Flourescent Tube, 40 Watt",General,10.5,2.3333333333333335,3.5,7
+"GE 48"" Fluorescent Tube, Cool White Energy Saver, 34 Watts, 30/Box",General,43.5,3.625,14.5,6
+GE DSL Phone Line Filter,General,22.5,3.75,7.5,5
+"GE General Purpose, Extra Long Life, Showcase & Floodlight Incandescent Bulbs",General,30.0,2.857142857142857,10.0,5
+"GE General Use Halogen Bulbs, 100 Watts, 1 Bulb per Pack",General,22.5,5.0,7.5,6
+Gear Head AU3700S Headset,General,24.0,5.333333333333333,8.0,4
+Geemarc AmpliPOWER60,General,69.0,4.181818181818182,23.0,7
+"Geographics Note Cards, Blank, White, 8 1/2"" x 11""",General,12.0,2.6666666666666665,4.0,6
+"Global Adaptabilites Bookcase, Cherry/Storm Gray Finish",General,12.0,4.0,4.0,5
+Global Adaptabilities Conference Tables,General,21.0,3.5,7.0,5
+"Global Airflow Leather Mesh Back Chair, Black",General,48.0,3.5555555555555554,16.0,5
+"Global Armless Task Chair, Royal Blue",General,42.0,3.5,14.0,4
+Global Chrome Stack Chair,General,48.0,5.333333333333333,16.0,7
+Global Comet Stacking Arm Chair,General,25.5,3.4,8.5,7
+Global Comet Stacking Armless Chair,General,21.0,2.3333333333333335,7.0,7
+Global Commerce Series High-Back Swivel/Tilt Chairs,General,49.5,3.6666666666666665,16.5,5
+Global Commerce Series Low-Back Swivel/Tilt Chairs,General,36.0,3.4285714285714284,12.0,6
+Global Deluxe High-Back Manager's Chair,General,52.5,4.375,17.5,5
+Global Deluxe High-Back Office Chair in Storm,General,15.0,3.3333333333333335,5.0,6
+Global Deluxe Office Fabric Chairs,General,25.5,2.8333333333333335,8.5,7
+"Global Deluxe Stacking Chair, Gray",General,28.5,2.7142857142857144,9.5,7
+Global Deluxe Steno Chair,General,43.5,2.9,14.5,7
+Global Enterprise Series Seating High-Back Swivel/Tilt Chairs,General,15.0,2.5,5.0,7
+Global Enterprise Series Seating Low-Back Swivel/Tilt Chairs,General,1.5,1.0,0.5,6
+Global Ergonomic Managers Chair,General,58.5,3.5454545454545454,19.5,5
+Global Executive Mid-Back Manager's Chair,General,27.0,3.0,9.0,4
+"Global Fabric Manager's Chair, Dark Gray",General,52.5,3.888888888888889,17.5,7
+"Global Geo Office Task Chair, Gray",General,37.5,3.5714285714285716,12.5,3
+"Global High-Back Leather Tilter, Burgundy",General,81.0,3.857142857142857,27.0,7
+Global Highback Leather Tilter in Burgundy,General,51.0,3.7777777777777777,17.0,3
+Global Italian Leather Office Chair,General,12.0,4.0,4.0,7
+"Global Leather & Oak Executive Chair, Burgundy",General,19.5,2.6,6.5,7
+Global Leather Executive Chair,General,31.5,3.0,10.5,7
+"Global Leather Highback Executive Chair with Pneumatic Height Adjustment, Black",General,58.5,3.5454545454545454,19.5,3
+"Global Leather Task Chair, Black",General,28.5,2.375,9.5,7
+"Global Leather and Oak Executive Chair, Black",General,39.0,3.25,13.0,3
+Global Low Back Tilter Chair,General,31.5,2.625,10.5,7
+"Global Manager's Adjustable Task Chair, Storm",General,34.5,3.8333333333333335,11.5,6
+"Global Push Button Manager's Chair, Indigo",General,66.0,4.888888888888889,22.0,3
+"Global Stack Chair with Arms, Black",General,46.5,4.428571428571429,15.5,7
+"Global Stack Chair without Arms, Black",General,66.0,6.285714285714286,22.0,4
+Global Super Steno Chair,General,45.0,4.285714285714286,15.0,6
+"Global Task Chair, Black",General,18.0,2.4,6.0,7
+Global Troy Executive Leather Low-Back Tilter,General,48.0,3.5555555555555554,16.0,5
+"Global Value Mid-Back Manager's Chair, Gray",General,58.5,3.9,19.5,6
+"Global Value Steno Chair, Gray",General,64.5,4.3,21.5,7
+"Global Wood Trimmed Manager's Task Chair, Khaki",General,88.5,4.214285714285714,29.5,5
+Globe Weis Peel & Seel First Class Envelopes,General,45.0,4.285714285714286,15.0,7
+Google Nexus 5,General,34.5,4.6,11.5,7
+"Gould Plastics 18-Pocket Panel Bin, 34w x 5-1/4d x 20-1/2h",General,42.0,2.8,14.0,5
+"Gould Plastics 9-Pocket Panel Bin, 18-3/8w x 5-1/4d x 20-1/2h, Black",General,30.0,3.3333333333333335,10.0,3
+Grandstream GXP1160 VoIP phone,General,36.0,4.0,12.0,3
+Grandstream GXP2100 Mainstream Business Phone,General,15.0,2.5,5.0,4
+Great White Multi-Use Recycled Paper (20Lb. and 84 Bright),General,48.0,4.0,16.0,7
+Green Bar Computer Printout Paper,General,25.5,3.4,8.5,5
+"Green Canvas Binder for 8-1/2"" x 14"" Sheets",General,28.5,3.8,9.5,5
+Griffin GC17055 Auxiliary Audio Cable,General,40.5,4.5,13.5,4
+Griffin GC36547 PowerJolt SE Lightning Charger,General,15.0,3.3333333333333335,5.0,3
+Grip Seal Envelopes,General,3.0,2.0,1.0,5
+GuestStacker Chair with Chrome Finish Legs,General,46.5,3.875,15.5,6
+HON 5400 Series Task Chairs for Big and Tall,General,58.5,4.875,19.5,5
+"HP Designjet T520 Inkjet Large Format Printer - 24"" Color",General,18.0,4.0,6.0,7
+HP Office Paper (20Lb. and 87 Bright),General,21.0,7.0,7.0,3
+HP Office Recycled Paper (20Lb. and 87 Bright),General,28.5,4.75,9.5,6
+"HP Officejet Pro 8600 e-All-In-One Printer, Copier, Scanner, Fax",General,6.0,2.0,2.0,7
+HP Standard 104 key PS/2 Keyboard,General,30.0,3.3333333333333335,10.0,5
+HTC One,General,21.0,3.5,7.0,3
+HTC One Mini,General,28.5,4.75,9.5,4
+Hammermill Color Copier Paper (28Lb. and 96 Bright),General,4.5,1.5,1.5,3
+Hammermill CopyPlus Copy Paper (20Lb. and 84 Bright),General,10.5,2.3333333333333335,3.5,6
+Hand-Finished Solid Wood Document Frame,General,12.0,2.6666666666666665,4.0,3
+Hanging Personal Folder File,General,25.5,3.4,8.5,6
+Harbour Creations 67200 Series Stacking Chairs,General,36.0,3.0,12.0,7
+Harbour Creations Steel Folding Chair,General,51.0,4.25,17.0,5
+Harmony Air Purifier,General,19.5,2.6,6.5,6
+Harmony HEPA Quiet Air Purifiers,General,18.0,3.0,6.0,3
+Heavy-Duty E-Z-D Binders,General,43.5,3.625,14.5,4
+Hewlett Packard 310 Color Digital Copier,General,24.0,2.6666666666666665,8.0,5
+Hewlett Packard 610 Color Digital Copier / Printer,General,31.5,3.0,10.5,7
+Hewlett Packard LaserJet 3310 Copier,General,57.0,4.75,19.0,7
+Hewlett-Packard 300S Scientific Calculator,General,15.0,5.0,5.0,7
+Hewlett-Packard Deskjet 3050a All-in-One Color Inkjet Printer,General,12.0,8.0,4.0,3
+Hewlett-Packard Deskjet 5550 Printer,General,4.5,3.0,1.5,4
+Hewlett-Packard Deskjet 6540 Color Inkjet Printer,General,9.0,3.0,3.0,7
+Hewlett-Packard Deskjet D4360 Printer,General,6.0,4.0,2.0,4
+Hewlett-Packard Deskjet F4180 All-in-One Color Ink-jet - Printer / copier / scanner,General,3.0,2.0,1.0,3
+Hewlett-Packard Desktjet 6988DT Refurbished Printer,General,7.5,5.0,2.5,6
+High Speed Automatic Electric Letter Opener,General,16.5,3.6666666666666665,5.5,6
+High-Back Leather Manager's Chair,General,63.0,4.666666666666667,21.0,4
+Holmes 99% HEPA Air Purifier,General,25.5,4.25,8.5,6
+"Holmes Cool Mist Humidifier for the Whole House with 8-Gallon Output per Day, Extended Life Filter",General,13.5,2.25,4.5,5
+Holmes HEPA Air Purifier,General,21.0,2.3333333333333335,7.0,3
+Holmes Harmony HEPA Air Purifier for 17 x 20 Room,General,4.5,3.0,1.5,7
+Holmes Odor Grabber,General,45.0,3.75,15.0,4
+"Holmes Replacement Filter for HEPA Air Cleaner, Large Room",General,18.0,3.0,6.0,5
+"Holmes Replacement Filter for HEPA Air Cleaner, Medium Room",General,27.0,4.5,9.0,7
+"Holmes Replacement Filter for HEPA Air Cleaner, Very Large Room, HEPA Filter",General,39.0,2.6,13.0,6
+"Holmes Visible Mist Ultrasonic Humidifier with 2.3-Gallon Output per Day, Replacement Filter",General,7.5,2.5,2.5,6
+Home/Office Personal File Carts,General,45.0,4.285714285714286,15.0,3
+Hon 2090 Pillow Soft Series Mid Back Swivel/Tilt Chairs,General,36.0,4.0,12.0,4
+Hon 2111 Invitation Series Corner Table,General,27.0,4.5,9.0,3
+Hon 2111 Invitation Series Straight Table,General,27.0,2.5714285714285716,9.0,4
+"Hon 30"" x 60"" Table with Locking Drawer",General,9.0,2.0,3.0,4
+Hon 4-Shelf Metal Bookcases,General,33.0,5.5,11.0,5
+Hon 4060 Series Tables,General,19.5,3.25,6.5,5
+Hon 4070 Series Pagoda Armless Upholstered Stacking Chairs,General,51.0,4.25,17.0,4
+Hon 4070 Series Pagoda Round Back Stacking Chairs,General,31.5,3.0,10.5,4
+Hon 4700 Series Mobuis Mid-Back Task Chairs with Adjustable Arms,General,36.0,4.0,12.0,7
+Hon 5100 Series Wood Tables,General,39.0,3.7142857142857144,13.0,5
+Hon 61000 Series Interactive Training Tables,General,33.0,2.4444444444444446,11.0,4
+Hon 94000 Series Round Tables,General,45.0,6.0,15.0,5
+Hon Comfortask Task/Swivel Chairs,General,27.0,3.0,9.0,5
+Hon Deluxe Fabric Upholstered Stacking Chairs,General,22.5,3.75,7.5,3
+"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",General,76.5,4.25,25.5,7
+"Hon Deluxe Fabric Upholstered Stacking Chairs, Squared Back",General,10.5,3.5,3.5,5
+Hon Every-Day Chair Series Swivel Task Chairs,General,15.0,3.3333333333333335,5.0,4
+Hon Every-Day Series Multi-Task Chairs,General,64.5,4.3,21.5,3
+Hon GuestStacker Chair,General,51.0,3.7777777777777777,17.0,6
+"Hon Metal Bookcases, Black",General,45.0,6.0,15.0,3
+"Hon Metal Bookcases, Gray",General,18.0,6.0,6.0,6
+"Hon Metal Bookcases, Putty",General,28.5,3.8,9.5,3
+Hon Mobius Operator's Chair,General,34.5,4.6,11.5,7
+Hon Multipurpose Stacking Arm Chairs,General,54.0,6.0,18.0,4
+Hon Non-Folding Utility Tables,General,43.5,5.8,14.5,4
+Hon Olson Stacker Chairs,General,33.0,5.5,11.0,7
+Hon Olson Stacker Stools,General,66.0,4.4,22.0,6
+Hon Pagoda Stacking Chairs,General,33.0,5.5,11.0,3
+"Hon Practical Foundations 30 x 60 Training Table, Light Gray/Charcoal",General,33.0,3.6666666666666665,11.0,5
+Hon Racetrack Conference Tables,General,33.0,3.6666666666666665,11.0,4
+Hon Rectangular Conference Tables,General,30.0,5.0,10.0,7
+Hon Valutask Swivel Chairs,General,19.5,3.25,6.5,3
+Honeywell Enviracaire Portable Air Cleaner for up to 8 x 10 Room,General,13.5,4.5,4.5,6
+Honeywell Enviracaire Portable HEPA Air Cleaner for 16' x 20' Room,General,21.0,4.666666666666667,7.0,6
+Honeywell Enviracaire Portable HEPA Air Cleaner for 17' x 22' Room,General,60.0,5.0,20.0,5
+Honeywell Enviracaire Portable HEPA Air Cleaner for up to 10 x 16 Room,General,18.0,4.0,6.0,5
+Honeywell Quietcare HEPA Air Cleaner,General,34.5,3.8333333333333335,11.5,4
+Hoover Commercial Lightweight Upright Vacuum,General,12.0,4.0,4.0,3
+Hoover Commercial Lightweight Upright Vacuum with E-Z Empty Dirt Cup,General,9.0,2.0,3.0,4
+Hoover Commercial Soft Guard Upright Vacuum And Disposable Filtration Bags,General,27.0,4.5,9.0,5
+Hoover Commercial SteamVac,General,21.0,3.5,7.0,4
+Hoover Portapower Portable Vacuum,General,27.0,4.5,9.0,7
+Hoover Replacement Belt for Commercial Guardsman Heavy-Duty Upright Vacuum,General,9.0,1.5,3.0,7
+"Hoover Replacement Belts For Soft Guard & Commercial Ltweight Upright Vacs, 2/Pk",General,27.0,3.6,9.0,5
+Hoover Shoulder Vac Commercial Portable Vacuum,General,24.0,2.6666666666666665,8.0,4
+Hoover Upright Vacuum With Dirt Cup,General,46.5,5.166666666666667,15.5,3
+Hoover WindTunnel Plus Canister Vacuum,General,13.5,3.0,4.5,7
+"Hot File 7-Pocket, Floor Stand",General,73.5,3.769230769230769,24.5,4
+"Howard Miller 11-1/2"" Diameter Brentwood Wall Clock",General,25.5,4.25,8.5,6
+"Howard Miller 11-1/2"" Diameter Grantwood Wall Clock",General,21.0,2.3333333333333335,7.0,6
+"Howard Miller 11-1/2"" Diameter Ridgewood Wall Clock",General,36.0,4.0,12.0,3
+"Howard Miller 12"" Round Wall Clock",General,21.0,7.0,7.0,7
+Howard Miller 12-3/4 Diameter Accuwave DS  Wall Clock,General,21.0,7.0,7.0,3
+"Howard Miller 13"" Diameter Goldtone Round Wall Clock",General,40.5,4.5,13.5,7
+"Howard Miller 13"" Diameter Pewter Finish Round Wall Clock",General,40.5,3.857142857142857,13.5,4
+"Howard Miller 13-1/2"" Diameter Rosebrook Wall Clock",General,25.5,3.4,8.5,4
+"Howard Miller 13-3/4"" Diameter Brushed Chrome Round Wall Clock",General,46.5,3.4444444444444446,15.5,5
+"Howard Miller 14-1/2"" Diameter Chrome Round Wall Clock",General,43.5,4.142857142857143,14.5,6
+"Howard Miller 16"" Diameter Gallery Wall Clock",General,18.0,3.0,6.0,4
+Howard Miller Distant Time Traveler Alarm Clock,General,31.5,3.5,10.5,4
+"Hunt BOSTON Model 1606 High-Volume Electric Pencil Sharpener, Beige",General,12.0,8.0,4.0,5
+"Hunt BOSTON Vista Battery-Operated Pencil Sharpener, Black",General,12.0,2.0,4.0,4
+Hunt Boston Vacuum Mount KS Pencil Sharpener,General,30.0,4.0,10.0,7
+"Hunt PowerHouse Electric Pencil Sharpener, Blue",General,66.0,4.4,22.0,6
+Hypercom P1300 Pinpad,General,31.5,3.0,10.5,4
+I Need's 3d Hello Kitty Hybrid Silicone Case Cover for HTC One X 4g with 3d Hello Kitty Stylus Pen Green/pink,General,78.0,5.2,26.0,3
+I.R.I.S IRISCard Anywhere 5 Card Scanner,General,4.5,3.0,1.5,5
+"IBM Multi-Purpose Copy Paper, 8 1/2 x 11"", Case",General,24.0,2.6666666666666665,8.0,5
+Ibico Covers for Plastic or Wire Binding Elements,General,30.0,2.857142857142857,10.0,3
+Ibico EB-19 Dual Function Manual Binding System,General,34.5,2.875,11.5,6
+Ibico EPK-21 Electric Binding System,General,19.5,4.333333333333333,6.5,4
+Ibico Hi-Tech Manual Binding System,General,51.0,3.090909090909091,17.0,5
+Ibico Ibimaster 300 Manual Binding System,General,42.0,3.5,14.0,7
+Ibico Laser Imprintable Binding System Covers,General,51.0,4.25,17.0,5
+Ibico Plastic Spiral Binding Combs,General,70.5,3.6153846153846154,23.5,7
+Ibico Plastic and Wire Spiral Binding Combs,General,61.5,4.555555555555555,20.5,4
+Ibico Presentation Index for Binding Systems,General,40.5,3.857142857142857,13.5,3
+Ibico Recycled Grain-Textured Covers,General,12.0,2.0,4.0,5
+Ibico Recycled Linen-Style Covers,General,36.0,6.0,12.0,7
+Ibico Standard Transparent Covers,General,51.0,3.4,17.0,4
+Iceberg Mobile Mega Data/Printer Cart ,General,73.5,6.125,24.5,7
+"Iceberg Nesting Folding Chair, 19w x 6d x 43h",General,46.5,5.166666666666667,15.5,6
+"Iceberg OfficeWorks 42"" Round Tables",General,45.0,4.285714285714286,15.0,5
+Ideal Clamps,General,49.5,4.125,16.5,6
+Imation Bio 2GB USB Flash Drive Imation Corp,General,24.0,5.333333333333333,8.0,4
+Imation Bio 8GB USB Flash Drive Imation Corp,General,24.0,4.0,8.0,6
+Imation 16GB Mini TravelDrive USB 2.0 Flash Drive,General,51.0,3.7777777777777777,17.0,3
+Imation 30456 USB Flash Drive 8GB,General,34.5,4.6,11.5,4
+Imation 32GB Pocket Pro USB 3.0 Flash Drive - 32 GB - Black - 1 P ...,General,27.0,3.6,9.0,4
+Imation 8GB Mini TravelDrive USB 2.0 Flash Drive,General,19.5,4.333333333333333,6.5,6
+Imation 8gb Micro Traveldrive Usb 2.0 Flash Drive,General,37.5,3.125,12.5,6
+Imation Clip USB flash drive - 8 GB,General,37.5,3.5714285714285716,12.5,5
+Imation Secure+ Hardware Encrypted USB 2.0 Flash Drive; 16GB,General,48.0,5.333333333333333,16.0,5
+Imation Secure Drive + Hardware Encrypted USB flash drive - 16 GB,General,36.0,4.0,12.0,7
+Imation Swivel Flash Drive USB flash drive - 8 GB,General,7.5,2.5,2.5,5
+Imation USB 2.0 Swivel Flash Drive USB flash drive - 4 GB - Pink,General,21.0,4.666666666666667,7.0,3
+"Important Message Pads, 50 4-1/4 x 5-1/2 Forms per Pad",General,22.5,3.75,7.5,5
+"Ink Jet Note and Greeting Cards, 8-1/2"" x 5-1/2"" Card Size",General,9.0,2.0,3.0,5
+Innergie mMini Combo Duo USB Travel Charging Kit,General,28.5,3.1666666666666665,9.5,3
+Insertable Tab Indexes For Data Binders,General,19.5,2.6,6.5,5
+Insertable Tab Post Binder Dividers,General,37.5,3.125,12.5,7
+"Inter-Office Recycled Envelopes, Brown Kraft, Button-String,10"" x 13"" , 100/Box",General,15.0,3.3333333333333335,5.0,4
+"Iris 3-Drawer Stacking Bin, Black",General,24.0,5.333333333333333,8.0,5
+Iris Project Case,General,45.0,5.0,15.0,7
+"It's Hot Message Books with Stickers, 2 3/4"" x 5""",General,37.5,4.166666666666667,12.5,7
+JBL Micro Wireless Portable Bluetooth Speaker,General,25.5,2.8333333333333335,8.5,6
+JM Magazine Binder,General,27.0,3.0,9.0,6
+Jabra BIZ 2300 Duo QD Duo Corded Headset,General,25.5,4.25,8.5,7
+Jabra SPEAK 410,General,55.5,4.111111111111111,18.5,6
+Jabra SPEAK 410 Multidevice Speakerphone,General,19.5,4.333333333333333,6.5,5
+Jabra Supreme Plus Driver Edition Headset,General,33.0,4.4,11.0,6
+Jackery Bar Premium Fast-charging Portable Charger,General,27.0,4.5,9.0,7
+Jawbone JAMBOX Wireless Bluetooth Speaker,General,21.0,4.666666666666667,7.0,3
+Jawbone MINI JAMBOX Wireless Bluetooth Speaker,General,27.0,3.6,9.0,6
+Jensen SMPS-640 - speaker phone,General,18.0,3.0,6.0,4
+Jet-Pak Recycled Peel 'N' Seal Padded Mailers,General,28.5,4.75,9.5,4
+Jiffy Padded Mailers with Self-Seal Closure,General,3.0,2.0,1.0,3
+KI Adjustable-Height Table,General,111.0,4.111111111111111,37.0,6
+KI Conference Tables,General,66.0,5.5,22.0,3
+KLD Oscar II Style Snap-on Ultra Thin Side Flip Synthetic Leather Cover Case for HTC One HTC M7,General,19.5,4.333333333333333,6.5,6
+Kensington 4 Outlet MasterPiece Compact Power Control Center,General,54.0,5.142857142857143,18.0,6
+Kensington 6 Outlet Guardian Standard Surge Protector,General,30.0,3.3333333333333335,10.0,4
+Kensington 6 Outlet MasterPiece HOMEOFFICE Power Control Center,General,13.5,4.5,4.5,7
+Kensington 6 Outlet SmartSocket Surge Protector,General,9.0,3.0,3.0,3
+Kensington 7 Outlet MasterPiece HOMEOFFICE Power Control Center,General,31.5,4.2,10.5,6
+Kensington 7 Outlet MasterPiece Power Center,General,31.5,4.2,10.5,7
+Kensington 7 Outlet MasterPiece Power Center with Fax/Phone Line Protection,General,12.0,2.0,4.0,5
+Kensington Expert Mouse Optical USB Trackball for PC or Mac,General,30.0,3.3333333333333335,10.0,3
+Kensington K72356US Mouse-in-a-Box USB Desktop Mouse,General,30.0,3.3333333333333335,10.0,4
+Kensington Orbit Wireless Mobile Trackball for PC and Mac,General,49.5,6.6,16.5,6
+Kensington SlimBlade Notebook Wireless Mouse with Nano Receiver ,General,19.5,3.25,6.5,3
+KeyTronic 6101 Series - Keyboard - Black,General,15.0,5.0,5.0,6
+KeyTronic E03601U1 - Keyboard - Beige,General,27.0,3.0,9.0,5
+KeyTronic KT400U2 - Keyboard - Black,General,22.5,5.0,7.5,4
+KeyTronic KT800P2 - Keyboard - Black,General,9.0,2.0,3.0,6
+Kingston Digital DataTraveler 16GB USB 2.0,General,85.5,4.384615384615385,28.5,4
+Kingston Digital DataTraveler 32GB USB 2.0,General,33.0,3.142857142857143,11.0,3
+Kingston Digital DataTraveler 64GB USB 2.0,General,9.0,3.0,3.0,6
+Kingston Digital DataTraveler 8GB USB 2.0,General,13.5,3.0,4.5,4
+Kleencut Forged Office Shears by Acme United Corporation,General,7.5,2.5,2.5,3
+Konftel 250 Conference phone - Charcoal black,General,13.5,2.25,4.5,5
+Konica Minolta magicolor 1690MF Multifunction Printer,General,12.0,8.0,4.0,4
+"LF Elite 3D Dazzle Designer Hard Case Cover, Lf Stylus Pen and Wiper For Apple Iphone 5c Mini Lite",General,42.0,3.5,14.0,3
+LG Electronics Tone+ HBS-730 Bluetooth Headset,General,27.0,4.5,9.0,4
+LG Exalt,General,18.0,4.0,6.0,3
+LG G2,General,7.5,5.0,2.5,7
+LG G3,General,15.0,2.5,5.0,5
+Laminate Occasional Tables,General,27.0,6.0,9.0,7
+Large Capacity Hanging Post Binders,General,33.0,4.4,11.0,5
+Laser & Ink Jet Business Envelopes,General,30.0,4.0,10.0,5
+"Leather Task Chair, Black",General,28.5,3.1666666666666665,9.5,6
+Lenovo 17-Key USB Numeric Keypad,General,19.5,2.6,6.5,4
+"Lesro Round Back Collection Coffee Table, End Table",General,30.0,2.5,10.0,7
+"Lesro Sheffield Collection Coffee Table, End Table, Center Table, Corner Table",General,58.5,4.333333333333333,19.5,6
+Letter Size Cart,General,49.5,4.125,16.5,6
+Letter Size File,General,15.0,5.0,5.0,6
+Letter Slitter,General,6.0,2.0,2.0,7
+Letter or Legal Size Expandable Poly String Tie Envelopes,General,24.0,4.0,8.0,5
+"Letter/Legal File Tote with Clear Snap-On Lid, Black Granite",General,21.0,3.5,7.0,3
+Lexmark 20R1285 X6650 Wireless All-in-One Printer,General,9.0,3.0,3.0,5
+Lexmark MX611dhe Monochrome Laser Printer,General,27.0,4.5,9.0,5
+Lexmark MarkNet N8150 Wireless Print Server,General,9.0,3.0,3.0,5
+Lexmark S315 Color Inkjet Printer,General,7.5,2.5,2.5,7
+Lexmark X 9575 Professional All-in-One Color Printer,General,6.0,4.0,2.0,4
+"Lifetime Advantage Folding Chairs, 4/Carton",General,40.5,3.857142857142857,13.5,3
+"Linden 10"" Round Wall Clock, Black",General,31.5,3.5,10.5,5
+"Linden 12"" Wall Clock With Oak Frame",General,4.5,3.0,1.5,5
+Lock-Up Easel 'Spel-Binder',General,66.0,6.285714285714286,22.0,5
+Logitech 910-002974 M325 Wireless Mouse for Web Scrolling,General,78.0,3.466666666666667,26.0,6
+"Logitech B530 USB Headset - headset - Full size, Binaural",General,37.5,2.5,12.5,4
+Logitech ClearChat Comfort/USB Headset H390,General,28.5,3.1666666666666665,9.5,6
+Logitech Desktop MK120 Mouse and keyboard Combo,General,75.0,4.166666666666667,25.0,7
+Logitech G105 Gaming Keyboard,General,21.0,2.8,7.0,3
+Logitech G13 Programmable Gameboard with LCD Display,General,21.0,3.5,7.0,3
+Logitech G19 Programmable Gaming Keyboard,General,54.0,4.5,18.0,3
+Logitech G35 7.1-Channel Surround Sound Headset,General,25.5,2.8333333333333335,8.5,7
+Logitech G430 Surround Sound Gaming Headset with Dolby 7.1 Technology,General,25.5,4.25,8.5,3
+Logitech G500s Laser Gaming Mouse with Adjustable Weight Tuning,General,31.5,5.25,10.5,4
+Logitech G600 MMO Gaming Mouse,General,31.5,2.625,10.5,6
+Logitech G602 Wireless Gaming Mouse,General,43.5,3.2222222222222223,14.5,3
+Logitech G700s Rechargeable Gaming Mouse,General,37.5,2.7777777777777777,12.5,5
+Logitech Illuminated Ultrathin Keyboard with Backlighting,General,4.5,3.0,1.5,3
+Logitech K350 2.4Ghz Wireless Keyboard,General,37.5,5.0,12.5,3
+Logitech Keyboard K120,General,18.0,4.0,6.0,5
+Logitech M510 Wireless Mouse,General,10.5,2.3333333333333335,3.5,7
+Logitech Media Keyboard K200,General,24.0,4.0,8.0,6
+Logitech Mobile Speakerphone P710e - speaker phone,General,25.5,3.4,8.5,4
+Logitech Trackman Marble Mouse,General,42.0,3.111111111111111,14.0,6
+Logitech Wireless Anywhere Mouse MX for PC and Mac,General,16.5,3.6666666666666665,5.5,7
+Logitech Wireless Gaming Headset G930,General,31.5,3.5,10.5,3
+Logitech Wireless Headset H600 Over-The-Head Design,General,15.0,5.0,5.0,4
+Logitech Wireless Headset h800,General,48.0,5.333333333333333,16.0,4
+Logitech Wireless Marathon Mouse M705,General,45.0,3.75,15.0,6
+Logitech Wireless Performance Mouse MX for PC and Mac,General,31.5,3.0,10.5,5
+Logitech Wireless Touch Keyboard K400,General,22.5,5.0,7.5,7
+Logitech diNovo Edge Keyboard,General,46.5,6.2,15.5,6
+Logitech Gaming G510s - Keyboard,General,46.5,3.875,15.5,4
+Logitech Illuminated - Keyboard,General,30.0,3.3333333333333335,10.0,6
+Logitech LS21 Speaker System - PC Multimedia - 2.1-CH - Wired,General,16.5,1.8333333333333333,5.5,5
+Logitech MX Performance Wireless Mouse,General,34.5,3.2857142857142856,11.5,6
+Logitech P710e Mobile Speakerphone,General,61.5,4.555555555555555,20.5,3
+Logitech VX Revolution Cordless Laser Mouse for Notebooks (Black),General,33.0,4.4,11.0,6
+"Logitech Wireless Boombox Speaker - portable - wireless, wired",General,6.0,2.0,2.0,7
+Logitech Z-906 Speaker sys - home theater - 5.1-CH,General,25.5,4.25,8.5,6
+Longer-Life Soft White Bulbs,General,66.0,4.4,22.0,6
+Loose Memo Sheets,General,7.5,2.5,2.5,5
+Lumber Crayons,General,28.5,3.1666666666666665,9.5,3
+Lunatik TT5L-002 Taktik Strike Impact Protection System for iPhone 5,General,9.0,2.0,3.0,4
+Luxo Adjustable Task Clamp Lamp,General,27.0,4.5,9.0,5
+Luxo Economy Swing Arm Lamp,General,25.5,3.4,8.5,5
+Luxo Professional Combination Clamp-On Lamps,General,19.5,2.6,6.5,4
+Luxo Professional Fluorescent Magnifier Lamp with Clamp-Mount Base,General,34.5,4.6,11.5,4
+Luxo Professional Magnifying Clamp-On Fluorescent Lamps,General,19.5,3.25,6.5,6
+Macally Suction Cup Mount,General,39.0,6.5,13.0,7
+Magna Visual Magnetic Picture Hangers,General,28.5,3.1666666666666665,9.5,6
+Magnifier Swing Arm Lamp,General,18.0,2.4,6.0,7
+Manco Dry-Lighter Erasable Highlighter,General,45.0,4.285714285714286,15.0,3
+"Manila Recycled Extra-Heavyweight Clasp Envelopes, 6"" x 9""",General,19.5,3.25,6.5,5
+Martin Yale Chadless Opener Electric Letter Opener,General,33.0,3.6666666666666665,11.0,4
+Martin-Yale Premier Letter Opener,General,30.0,2.857142857142857,10.0,7
+"Master Big Foot Doorstop, Beige",General,45.0,5.0,15.0,6
+"Master Caster Door Stop, Brown",General,57.0,4.222222222222222,19.0,6
+"Master Caster Door Stop, Gray",General,15.0,2.5,5.0,5
+"Master Caster Door Stop, Large Brown",General,15.0,3.3333333333333335,5.0,3
+"Master Caster Door Stop, Large Neon Orange",General,40.5,3.857142857142857,13.5,7
+"Master Giant Foot Doorstop, Safety Yellow",General,18.0,4.0,6.0,3
+Maxell 4.7GB DVD+R 5/Pack,General,19.5,2.6,6.5,3
+Maxell 4.7GB DVD+RW 3/Pack,General,25.5,4.25,8.5,7
+Maxell 4.7GB DVD-R,General,73.5,4.454545454545454,24.5,7
+Maxell 4.7GB DVD-R 5/Pack,General,31.5,4.2,10.5,6
+Maxell 4.7GB DVD-RW 3/Pack,General,15.0,2.5,5.0,3
+"Maxell 74 Minute CD-R Spindle, 50/Pack",General,36.0,4.8,12.0,6
+"Maxell 74 Minute CDR, 10/Pack",General,39.0,5.2,13.0,3
+Maxell CD-R Discs,General,13.5,3.0,4.5,5
+Maxell DVD-RAM Discs,General,27.0,6.0,9.0,4
+"Maxell Pro 80 Minute CD-R, 10/Pack",General,36.0,6.0,12.0,5
+Maxell LTO Ultrium - 800 GB,General,61.5,5.125,20.5,7
+Maxell iVDR EX 500GB Cartridge,General,15.0,5.0,5.0,6
+"Mead 1st Gear 2"" Zipper Binder, Asst. Colors",General,13.5,3.0,4.5,7
+Mediabridge Sport Armband iPhone 5s,General,45.0,4.285714285714286,15.0,5
+"Memo Book, 100 Message Capacity, 5 3/8 x 11",General,18.0,4.0,6.0,3
+"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 15/Pack",General,39.0,5.2,13.0,4
+"Memorex 25GB 6X Branded Blu-Ray Recordable Disc, 30/Pack",General,25.5,4.25,8.5,3
+Memorex Froggy Flash Drive 4 GB,General,21.0,2.8,7.0,6
+Memorex Froggy Flash Drive 8 GB,General,48.0,4.0,16.0,6
+Memorex Micro Travel Drive 16 GB,General,58.5,5.571428571428571,19.5,3
+Memorex Micro Travel Drive 32 GB,General,18.0,2.4,6.0,3
+Memorex Micro Travel Drive 4 GB,General,16.5,3.6666666666666665,5.5,6
+Memorex Micro Travel Drive 8 GB,General,39.0,3.25,13.0,7
+Memorex Mini Travel Drive 16 GB USB 2.0 Flash Drive,General,67.5,7.5,22.5,7
+Memorex Mini Travel Drive 32 GB USB 2.0 Flash Drive,General,21.0,7.0,7.0,3
+Memorex Mini Travel Drive 4 GB USB 2.0 Flash Drive,General,3.0,2.0,1.0,3
+Memorex Mini Travel Drive 64 GB USB 2.0 Flash Drive,General,22.5,2.5,7.5,7
+Memorex Mini Travel Drive 8 GB USB 2.0 Flash Drive,General,30.0,4.0,10.0,3
+"Message Book, Phone, Wirebound Standard Line Memo, 2 3/4"" X 5""",General,28.5,3.8,9.5,7
+"Message Book, Standard Line ""While You Were Out"", 5 1/2"" X 4"", 200 Sets/Book",General,9.0,3.0,3.0,6
+"Message Book, Wirebound, Four 5 1/2"" X 4"" Forms/Pg., 200 Dupl. Sets/Book",General,27.0,3.0,9.0,6
+"Metal Folding Chairs, Beige, 4/Carton",General,34.5,4.6,11.5,6
+Micro Innovations USB RF Wireless Keyboard with Mouse,General,27.0,3.0,9.0,6
+Micro Innovations Wireless Classic Keyboard with Mouse,General,6.0,2.0,2.0,5
+Micropad Numeric Keypads,General,22.5,3.75,7.5,3
+Microsoft Arc Touch Mouse,General,10.5,3.5,3.5,3
+Microsoft Natural Ergonomic Keyboard 4000,General,28.5,3.8,9.5,6
+Microsoft Natural Keyboard Elite,General,43.5,7.25,14.5,3
+Microsoft Sculpt Comfort Mouse,General,63.0,4.2,21.0,4
+Microsoft Wireless Mobile Mouse 4000,General,22.5,3.75,7.5,7
+"Mini 13-1/2 Capacity Data Binder Rack, Pearl",General,18.0,2.4,6.0,5
+Mitel 5320 IP Phone VoIP phone,General,21.0,3.5,7.0,6
+Mitel MiVoice 5330e IP Phone,General,51.0,3.7777777777777777,17.0,6
+Mobile Personal File Cube,General,31.5,4.2,10.5,4
+Model L Table or Wall-Mount Pencil Sharpener,General,36.0,4.8,12.0,4
+Mophie Juice Pack Helium for iPhone,General,36.0,4.0,12.0,5
+Motorla HX550 Universal Bluetooth Headset,General,22.5,3.75,7.5,4
+Motorola Droid Maxx,General,31.5,5.25,10.5,5
+Motorola HK250 Universal Bluetooth Headset,General,61.5,4.555555555555555,20.5,5
+Motorola L703CM,General,48.0,5.333333333333333,16.0,3
+Motorola L804,General,28.5,3.1666666666666665,9.5,5
+Motorola Moto X,General,9.0,3.0,3.0,4
+"Multi-Use Personal File Cart and Caster Set, Three Stacking Bins",General,16.5,2.2,5.5,5
+Multicolor Computer Printout Paper,General,28.5,3.8,9.5,5
+Multimedia Mailers,General,3.0,2.0,1.0,7
+NETGEAR AC1750 Dual Band Gigabit Smart WiFi Router,General,27.0,3.6,9.0,7
+NETGEAR N750 Dual Band Wi-Fi Gigabit Router,General,33.0,3.142857142857143,11.0,6
+NETGEAR RangeMax WNR1000 Wireless Router,General,4.5,3.0,1.5,6
+"Neat Ideas Personal Hanging Folder Files, Black",General,33.0,3.142857142857143,11.0,6
+NeatDesk Desktop Scanner & Digital Filing System,General,3.0,2.0,1.0,6
+Newell 3-Hole Punched Plastic Slotted Magazine Holders for Binders,General,30.0,3.3333333333333335,10.0,3
+Newell 307,General,18.0,4.0,6.0,5
+Newell 308,General,7.5,2.5,2.5,4
+Newell 309,General,30.0,4.0,10.0,4
+Newell 31,General,36.0,4.8,12.0,5
+Newell 310,General,37.5,3.5714285714285716,12.5,4
+Newell 311,General,45.0,3.75,15.0,6
+Newell 312,General,73.5,4.454545454545454,24.5,3
+Newell 313,General,15.0,3.3333333333333335,5.0,5
+Newell 314,General,36.0,3.4285714285714284,12.0,3
+Newell 315,General,37.5,4.166666666666667,12.5,7
+Newell 316,General,16.5,5.5,5.5,7
+Newell 317,General,48.0,4.571428571428571,16.0,3
+Newell 318,General,34.5,4.6,11.5,4
+Newell 319,General,42.0,3.5,14.0,7
+Newell 32,General,25.5,2.8333333333333335,8.5,4
+Newell 320,General,34.5,3.2857142857142856,11.5,7
+Newell 321,General,33.0,5.5,11.0,7
+Newell 322,General,27.0,3.0,9.0,3
+Newell 323,General,21.0,4.666666666666667,7.0,4
+Newell 324,General,34.5,3.2857142857142856,11.5,5
+Newell 325,General,51.0,5.666666666666667,17.0,3
+Newell 326,General,34.5,3.8333333333333335,11.5,3
+Newell 327,General,27.0,4.5,9.0,6
+Newell 328,General,19.5,4.333333333333333,6.5,5
+Newell 329,General,12.0,4.0,4.0,6
+Newell 33,General,15.0,3.3333333333333335,5.0,7
+Newell 330,General,16.5,2.75,5.5,4
+Newell 331,General,25.5,4.25,8.5,3
+Newell 332,General,36.0,4.8,12.0,4
+Newell 333,General,49.5,3.0,16.5,4
+Newell 334,General,40.5,4.5,13.5,6
+Newell 335,General,18.0,3.0,6.0,7
+Newell 336,General,27.0,4.5,9.0,6
+Newell 337,General,6.0,2.0,2.0,3
+Newell 338,General,12.0,4.0,4.0,3
+Newell 339,General,15.0,3.3333333333333335,5.0,7
+Newell 34,General,37.5,3.5714285714285716,12.5,3
+Newell 340,General,13.5,4.5,4.5,4
+Newell 341,General,34.5,3.2857142857142856,11.5,5
+Newell 342,General,4.5,3.0,1.5,5
+Newell 343,General,36.0,3.4285714285714284,12.0,5
+Newell 344,General,27.0,3.0,9.0,5
+Newell 345,General,39.0,2.888888888888889,13.0,4
+Newell 346,General,16.5,2.2,5.5,7
+Newell 347,General,48.0,4.571428571428571,16.0,4
+Newell 348,General,36.0,4.0,12.0,5
+Newell 349,General,21.0,4.666666666666667,7.0,7
+Newell 35,General,45.0,3.3333333333333335,15.0,4
+Newell 350,General,30.0,3.3333333333333335,10.0,7
+Newell 351,General,39.0,3.7142857142857144,13.0,4
+Newell Chalk Holder,General,31.5,3.0,10.5,3
+Nokia Lumia 1020,General,6.0,4.0,2.0,4
+Nokia Lumia 521 (T-Mobile),General,30.0,4.0,10.0,6
+Nokia Lumia 925,General,16.5,3.6666666666666665,5.5,3
+Nontoxic Chalk,General,40.5,3.375,13.5,3
+Nortel Business Series Terminal T7208 Digital phone,General,13.5,3.0,4.5,4
+Nortel Meridian M3904 Professional Digital phone,General,48.0,3.2,16.0,6
+Nortel Meridian M5316 Digital phone,General,19.5,3.25,6.5,3
+Nortel Networks T7316 E Nt8 B27,General,43.5,4.833333333333333,14.5,7
+Novimex Fabric Task Chair,General,58.5,4.333333333333333,19.5,3
+Novimex High-Tech Fabric Mesh Task Chair,General,24.0,4.0,8.0,6
+Novimex Swivel Fabric Task Chair,General,37.5,3.125,12.5,7
+Novimex Turbo Task Chair,General,33.0,3.6666666666666665,11.0,6
+Nu-Dell EZ-Mount Plastic Wall Frames,General,12.0,4.0,4.0,3
+Nu-Dell Executive Frame,General,58.5,6.5,19.5,7
+Nu-Dell Float Frame 11 x 14 1/2,General,33.0,3.142857142857143,11.0,5
+Nu-Dell Leatherette Frames,General,27.0,6.0,9.0,6
+Nu-Dell Oak Frame,General,24.0,5.333333333333333,8.0,7
+O'Sullivan 2-Door Barrister Bookcase in Odessa Pine,General,46.5,4.428571428571429,15.5,6
+O'Sullivan 2-Shelf Heavy-Duty Bookcases,General,31.5,3.5,10.5,5
+O'Sullivan 3-Shelf Heavy-Duty Bookcases,General,33.0,4.4,11.0,5
+O'Sullivan 4-Shelf Bookcase in Odessa Pine,General,55.5,5.285714285714286,18.5,4
+O'Sullivan 5-Shelf Heavy-Duty Bookcases,General,13.5,2.25,4.5,7
+O'Sullivan Cherrywood Estates Traditional Barrister Bookcase,General,13.5,4.5,4.5,3
+O'Sullivan Cherrywood Estates Traditional Bookcase,General,9.0,3.0,3.0,6
+"O'Sullivan Elevations Bookcase, Cherry Finish",General,27.0,3.6,9.0,7
+O'Sullivan Living Dimensions 2-Shelf Bookcases,General,42.0,2.8,14.0,5
+O'Sullivan Living Dimensions 3-Shelf Bookcases,General,25.5,4.25,8.5,4
+O'Sullivan Living Dimensions 5-Shelf Bookcases,General,31.5,3.5,10.5,5
+O'Sullivan Manor Hill 2-Door Library in Brianna Oak,General,18.0,3.0,6.0,6
+O'Sullivan Plantations 2-Door Library in Landvery Oak,General,33.0,4.4,11.0,6
+"OIC #2 Pencils, Medium Soft",General,25.5,2.4285714285714284,8.5,3
+OIC Binder Clips,General,57.0,5.428571428571429,19.0,3
+"OIC Binder Clips, Mini, 1/4"" Capacity, Black",General,19.5,2.6,6.5,6
+OIC Bulk Pack Metal Binder Clips,General,45.0,3.75,15.0,4
+"OIC Colored Binder Clips, Assorted Sizes",General,66.0,6.285714285714286,22.0,7
+OIC Stacking Trays,General,45.0,5.0,15.0,7
+OIC Thumb-Tacks,General,19.5,4.333333333333333,6.5,7
+"Office Impressions End Table, 20-1/2""H x 24""W x 20""D",General,34.5,4.6,11.5,4
+Office Impressions Heavy Duty Welded Shelving & Multimedia Storage Drawers,General,30.0,4.0,10.0,4
+Office Star - Contemporary Swivel Chair with Padded Adjustable Arms and Flex Back,General,48.0,4.571428571428571,16.0,5
+Office Star - Contemporary Task Swivel Chair,General,30.0,3.3333333333333335,10.0,7
+"Office Star - Contemporary Task Swivel chair with 2-way adjustable arms, Plum",General,10.5,3.5,3.5,5
+"Office Star - Contemporary Task Swivel chair with Loop Arms, Charcoal",General,52.5,3.888888888888889,17.5,4
+Office Star - Ergonomic Mid Back Chair with 2-Way Adjustable Arms,General,19.5,6.5,6.5,4
+Office Star - Ergonomically Designed Knee Chair,General,28.5,2.7142857142857144,9.5,7
+Office Star - Mesh Screen back chair with Vinyl seat,General,30.0,2.857142857142857,10.0,5
+Office Star - Mid Back Dual function Ergonomic High Back Chair with 2-Way Adjustable Arms,General,46.5,6.2,15.5,4
+Office Star - Professional Matrix Back Chair with 2-to-1 Synchro Tilt and Mesh Fabric Seat,General,42.0,3.5,14.0,5
+Office Star - Task Chair with Contemporary Loop Arms,General,12.0,4.0,4.0,6
+Office Star Flex Back Scooter Chair with Aluminum Finish Frame,General,30.0,3.3333333333333335,10.0,5
+Office Star Flex Back Scooter Chair with White Frame,General,31.5,3.0,10.5,6
+Okidata B400 Printer,General,4.5,1.5,1.5,5
+Okidata B401 Printer,General,4.5,3.0,1.5,5
+Okidata C331dn Printer,General,18.0,2.4,6.0,7
+Okidata C610n Printer,General,7.5,2.5,2.5,6
+Okidata MB491 Multifunction Printer,General,13.5,4.5,4.5,6
+Okidata MB760 Printer,General,10.5,3.5,3.5,5
+Ooma Telo VoIP Home Phone System,General,27.0,3.6,9.0,6
+OtterBox Commuter Series Case - Samsung Galaxy S4,General,27.0,4.5,9.0,3
+OtterBox Commuter Series Case - iPhone 5 & 5s,General,24.0,4.0,8.0,4
+OtterBox Defender Series Case - Samsung Galaxy S4,General,40.5,3.375,13.5,3
+OtterBox Defender Series Case - iPhone 5c,General,7.5,2.5,2.5,7
+PNY Rapid USB Car Charger - Black,General,3.0,2.0,1.0,6
+"Padded Folding Chairs, Black, 4/Carton",General,45.0,3.75,15.0,5
+Panasonic Business Telephones KX-T7736,General,4.5,3.0,1.5,6
+Panasonic KP-150 Electric Pencil Sharpener,General,24.0,4.0,8.0,3
+Panasonic KP-310 Heavy-Duty Electric Pencil Sharpener,General,13.5,4.5,4.5,3
+Panasonic KP-350BK Electric Pencil Sharpener with Auto Stop,General,6.0,1.3333333333333333,2.0,6
+Panasonic KP-380BK Classic Electric Pencil Sharpener,General,33.0,3.6666666666666665,11.0,7
+Panasonic KP-4ABK Battery-Operated Pencil Sharpener,General,24.0,4.0,8.0,3
+Panasonic KX - TS880B Telephone,General,16.5,3.6666666666666665,5.5,5
+Panasonic KX MB2061 Multifunction Printer,General,15.0,10.0,5.0,3
+Panasonic KX MC6040 Color Laser Multifunction Printer,General,7.5,2.5,2.5,7
+Panasonic KX T7731-B Digital phone,General,12.0,2.6666666666666665,4.0,3
+Panasonic KX T7736-B Digital phone,General,15.0,2.0,5.0,5
+Panasonic KX TS208W Corded phone,General,48.0,5.333333333333333,16.0,7
+Panasonic KX TS3282B Corded phone,General,13.5,3.0,4.5,6
+Panasonic KX TS3282W Corded phone,General,37.5,3.5714285714285716,12.5,4
+Panasonic KX-TG6844B Expandable Digital Cordless Telephone,General,33.0,3.142857142857143,11.0,7
+Panasonic KX-TG9471B,General,40.5,3.857142857142857,13.5,4
+Panasonic KX-TG9541B DECT 6.0 Digital 2-Line Expandable Cordless Phone With Digital Answering System,General,37.5,5.0,12.5,6
+Panasonic Kx-TS550,General,34.5,3.2857142857142856,11.5,4
+Park Ridge Embossed Executive Business Envelopes,General,6.0,4.0,2.0,5
+Pastel Pink Envelopes,General,13.5,3.0,4.5,3
+PayAnywhere Card Reader,General,37.5,5.0,12.5,3
+Peel & Seel Envelopes,General,27.0,4.5,9.0,6
+"Peel & Seel Recycled Catalog Envelopes, Brown",General,39.0,4.333333333333333,13.0,7
+Peel & Stick Add-On Corner Pockets,General,45.0,4.285714285714286,15.0,7
+Peel-Off China Markers,General,46.5,4.428571428571429,15.5,5
+Pencil and Crayon Sharpener,General,24.0,4.0,8.0,4
+Penpower WorldCard Pro Card Scanner,General,1.5,1.0,0.5,6
+"Performers Binder/Pad Holder, Black",General,54.0,4.5,18.0,4
+"Perixx PERIBOARD-512B, Ergonomic Split Keyboard",General,18.0,4.0,6.0,4
+"Perma STOR-ALL Hanging File Box, 13 1/8""W x 12 1/4""D x 10 1/2""H",General,49.5,4.125,16.5,7
+Permanent Self-Adhesive File Folder Labels for Typewriters by Universal,General,27.0,3.0,9.0,6
+"Permanent Self-Adhesive File Folder Labels for Typewriters, 1 1/8 x 3 1/2, White",General,43.5,4.833333333333333,14.5,3
+Personal Creations Ink Jet Cards and Labels,General,42.0,7.0,14.0,5
+Personal File Boxes with Fold-Down Carry Handle,General,18.0,2.4,6.0,6
+"Personal Filing Tote with Lid, Black/Gray",General,46.5,3.875,15.5,5
+"Personal Folder Holder, Ebony",General,21.0,2.3333333333333335,7.0,6
+Petty Cash Envelope,General,15.0,3.3333333333333335,5.0,6
+Pizazz Global Quick File,General,36.0,4.0,12.0,5
+Plantronics 81402,General,22.5,3.75,7.5,7
+Plantronics Audio 478 Stereo USB Headset,General,51.0,3.7777777777777777,17.0,6
+Plantronics Audio 995 Wireless Stereo Headset,General,27.0,4.5,9.0,7
+"Plantronics CS 50-USB - headset - Convertible, Monaural",General,19.5,2.6,6.5,4
+Plantronics CS510 - Over-the-Head monaural Wireless Headset System,General,52.5,3.5,17.5,3
+Plantronics Calisto P620-M USB Wireless Speakerphone System,General,21.0,3.5,7.0,4
+Plantronics Cordless Phone Headset with In-line Volume - M214C,General,40.5,4.5,13.5,6
+Plantronics Encore H101 Dual Earpieces Headset,General,27.0,2.5714285714285716,9.0,7
+Plantronics HL10 Handset Lifter,General,36.0,8.0,12.0,7
+Plantronics MX500i Earset,General,22.5,2.142857142857143,7.5,3
+Plantronics S12 Corded Telephone Headset System,General,34.5,3.8333333333333335,11.5,3
+Plantronics Savi W720 Multi-Device Wireless Headset System,General,36.0,3.4285714285714284,12.0,3
+Plantronics Single Ear Headset,General,7.5,5.0,2.5,3
+Plantronics Voyager Pro HD - Bluetooth Headset,General,37.5,5.0,12.5,4
+Plantronics Voyager Pro Legend,General,12.0,2.6666666666666665,4.0,5
+Plastic Binding Combs,General,34.5,4.6,11.5,5
+Plastic Stacking Crates & Casters,General,12.0,2.0,4.0,3
+Plymouth Boxed Rubber Bands by Plymouth,General,27.0,3.6,9.0,7
+Poly Designer Cover & Back,General,52.5,5.0,17.5,6
+Poly String Tie Envelopes,General,52.5,3.1818181818181817,17.5,4
+Polycom CX300 Desktop Phone USB VoIP phone,General,22.5,3.0,7.5,3
+Polycom CX600 IP Phone VoIP phone,General,25.5,4.25,8.5,6
+Polycom SoundPoint IP 450 VoIP phone,General,33.0,3.6666666666666665,11.0,4
+Polycom SoundPoint Pro SE-225 Corded phone,General,28.5,4.75,9.5,3
+Polycom SoundStation2 EX Conference phone,General,18.0,3.0,6.0,6
+Polycom VVX 310 VoIP phone,General,60.0,5.0,20.0,5
+Polycom VoiceStation 500 Conference phone,General,22.5,3.0,7.5,3
+Portable Personal File Box,General,28.5,3.1666666666666665,9.5,4
+Portfile Personal File Boxes,General,10.5,3.5,3.5,5
+"Post-it Important Message Note Pad, Neon Colors, 50 Sheets/Pad",General,13.5,4.5,4.5,4
+PowerGen Dual USB Car Charger,General,21.0,3.5,7.0,4
+Prang Colored Pencils,General,48.0,4.571428571428571,16.0,5
+Prang Drawing Pencil Set,General,58.5,3.5454545454545454,19.5,7
+Prang Dustless Chalk Sticks,General,36.0,3.0,12.0,7
+Premier Automatic Letter Opener,General,21.0,2.8,7.0,3
+Premier Electric Letter Opener,General,36.0,3.0,12.0,7
+"Premier Elliptical Ring Binder, Black",General,69.0,5.111111111111111,23.0,3
+Premium Transparent Presentation Covers by GBC,General,64.5,4.3,21.5,6
+"Premium Transparent Presentation Covers, No Pattern/Clear, 8 1/2"" x 11""",General,43.5,4.142857142857143,14.5,5
+"Premium Writing Pencils, Soft, #2 by Central Association for the Blind",General,43.5,4.142857142857143,14.5,6
+"Pressboard Covers with Storage Hooks, 9 1/2"" x 11"", Light Blue",General,66.0,3.6666666666666665,22.0,7
+"Pressboard Data Binder, Crimson, 12"" X 8 1/2""",General,13.5,3.0,4.5,5
+Pressboard Data Binders by Wilson Jones,General,40.5,3.375,13.5,3
+Pressboard Hanging Data Binders for Unburst Sheets,General,72.0,4.8,24.0,6
+Presstex Flexible Ring Binders,General,45.0,3.75,15.0,3
+Prestige Round Ring Binders,General,31.5,2.625,10.5,4
+Prismacolor Color Pencil Set,General,36.0,3.4285714285714284,12.0,3
+Project Tote Personal File,General,22.5,3.75,7.5,7
+PureGear Roll-On Screen Protector,General,51.0,6.8,17.0,6
+Pyle PMP37LED,General,64.5,4.3,21.5,7
+Pyle PRT45 Retro Home Telephone,General,6.0,4.0,2.0,6
+QVS USB Car Charger 2-Port 2.1Amp for iPod/iPhone/iPad/iPad 2/iPad 3,General,19.5,2.6,6.5,3
+Quality Park Security Envelopes,General,16.5,2.75,5.5,7
+"Quartet Alpha White Chalk, 12/Pack",General,12.0,4.0,4.0,4
+"Quartet Omega Colored Chalk, 12/Pack",General,22.5,2.142857142857143,7.5,4
+RCA H5401RE1 DECT 6.0 4-Line Cordless Handset With Caller ID/Call Waiting,General,4.5,3.0,1.5,3
+RCA ViSYS 25423RE1 Corded phone,General,3.0,2.0,1.0,6
+RCA ViSYS 25425RE1 Corded phone,General,4.5,3.0,1.5,3
+RCA ViSYS 25825 Wireless digital phone,General,10.5,3.5,3.5,4
+RCA Visys Integrated PBX 8-Line Router,General,28.5,3.8,9.5,7
+"REDIFORM Incoming/Outgoing Call Register, 11"" X 8 1/2"", 100 Messages",General,55.5,4.625,18.5,3
+"RSVP Cards & Envelopes, Blank White, 8-1/2"" X 11"", 24 Cards/25 Envelopes/Set",General,28.5,3.1666666666666665,9.5,5
+Razer Kraken 7.1 Surround Sound Over Ear USB Gaming Headset,General,43.5,4.833333333333333,14.5,5
+Razer Kraken PRO Over Ear PC and Music Headset,General,45.0,3.75,15.0,7
+Razer Tiamat Over Ear 7.1 Surround Sound PC Gaming Headset,General,39.0,3.7142857142857144,13.0,4
+"Recycled Data-Pak for Archival Bound Computer Printouts, 12-1/2 x 12-1/2 x 16",General,30.0,3.3333333333333335,10.0,5
+"Recycled Desk Saver Line ""While You Were Out"" Book, 5 1/2"" X 4""",General,45.0,6.0,15.0,6
+Recycled Easel Ring Binders,General,52.5,3.888888888888889,17.5,7
+Recycled Eldon Regeneration Jumbo File,General,30.0,3.3333333333333335,10.0,3
+"Recycled Interoffice Envelopes with Re-Use-A-Seal Closure, 10 x 13",General,7.5,2.5,2.5,7
+"Recycled Interoffice Envelopes with String and Button Closure, 10 x 13",General,18.0,2.4,6.0,5
+Recycled Premium Regency Composition Covers,General,13.5,3.0,4.5,3
+Recycled Pressboard Report Cover with Reinforced Top Hinge,General,51.0,4.25,17.0,6
+Recycled Steel Personal File for Hanging File Folders,General,31.5,3.5,10.5,6
+Recycled Steel Personal File for Standard File Folders,General,30.0,5.0,10.0,3
+"Redi-Strip #10 Envelopes, 4 1/8 x 9 1/2",General,52.5,5.0,17.5,5
+"Rediform S.O.S. 1-Up Phone Message Bk, 4-1/4x3-1/16 Bk, 1 Form/Pg, 40 Messages/Bk, 3/Pk",General,31.5,4.2,10.5,5
+Rediform S.O.S. Phone Message Books,General,6.0,4.0,2.0,3
+Rediform Voice Mail Log Books,General,16.5,5.5,5.5,5
+"Rediform Wirebound ""Phone Memo"" Message Book, 11 x 5-3/4",General,25.5,3.4,8.5,5
+Regeneration Desk Collection,General,31.5,4.2,10.5,3
+Revere Boxed Rubber Bands by Revere,General,43.5,4.833333333333333,14.5,3
+Ricoh - Ink Collector Unit for GX3000 Series Printers,General,21.0,4.666666666666667,7.0,3
+Riverleaf Stik-Withit Designer Note Cubes,General,22.5,3.0,7.5,7
+"Riverside Furniture Oval Coffee Table, Oval End Table, End Table with Drawer",General,37.5,5.0,12.5,3
+Riverside Furniture Stanwyck Manor Table Series,General,7.5,1.6666666666666667,2.5,3
+"Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish",General,36.0,4.8,12.0,4
+Rogers Deluxe File Chest,General,33.0,2.75,11.0,7
+Rogers Handheld Barrel Pencil Sharpener,General,45.0,4.285714285714286,15.0,5
+"Rogers Jumbo File, Granite",General,36.0,3.4285714285714284,12.0,4
+Rogers Profile Extra Capacity Storage Tub,General,48.0,4.571428571428571,16.0,3
+Rosewill 107 Normal Keys USB Wired Standard Keyboard,General,13.5,3.0,4.5,7
+Round Ring Binders,General,42.0,4.666666666666667,14.0,4
+Round Specialty Laser Printer Labels,General,58.5,6.5,19.5,3
+Rubber Band Ball,General,24.0,4.0,8.0,4
+"Rubbermaid ClusterMat Chairmats, Mat Size- 66"" x 60"", Lip 20"" x 11"" -90 Degree Angle",General,36.0,4.8,12.0,3
+"Rush Hierlooms Collection 1"" Thick Stackable Bookcases",General,22.5,3.75,7.5,7
+Rush Hierlooms Collection Rich Wood Bookcases,General,6.0,2.0,2.0,3
+SAFCO Arco Folding Chair,General,79.5,4.076923076923077,26.5,6
+SAFCO Boltless Steel Shelving,General,69.0,4.6,23.0,7
+"SAFCO Commercial Wire Shelving, 72h",General,36.0,4.8,12.0,4
+"SAFCO Commercial Wire Shelving, Black",General,52.5,3.5,17.5,3
+SAFCO Folding Chair Trolley,General,9.0,2.0,3.0,3
+"SAFCO Mobile Desk Side File, Wire Frame",General,46.5,3.875,15.5,7
+SAFCO Optional Arm Kit for Workspace Cribbage Stacking Chair,General,18.0,2.4,6.0,3
+"SAFCO PlanMaster Boards, 60w x 37-1/2d, White Melamine",General,39.0,5.2,13.0,5
+"SAFCO PlanMaster Heigh-Adjustable Drafting Table Base, 43w x 30d x 30-37h, Black",General,21.0,2.8,7.0,7
+SANFORD Liquid Accent Tank-Style Highlighters,General,7.5,1.6666666666666667,2.5,4
+SANFORD Major Accent Highlighters,General,45.0,4.285714285714286,15.0,4
+"SKILCRAFT Telephone Shoulder Rest, 2"" x 6.5"" x 2.5"", Black",General,12.0,2.6666666666666665,4.0,3
+Sabrent 4-Port USB 2.0 Hub,General,22.5,3.75,7.5,4
+"Safco Chair Connectors, 6/Carton",General,39.0,6.5,13.0,7
+Safco Commercial Shelving,General,16.5,2.2,5.5,4
+Safco Contoured Stacking Chairs,General,40.5,3.375,13.5,5
+Safco Drafting Table,General,18.0,3.0,6.0,5
+Safco Industrial Shelving,General,19.5,2.6,6.5,7
+Safco Industrial Wire Shelving,General,24.0,3.2,8.0,6
+Safco Industrial Wire Shelving System,General,45.0,3.75,15.0,3
+Safco Steel Mobile File Cart,General,13.5,1.8,4.5,5
+"Safco Value Mate Series Steel Bookcases, Baked Enamel Finish on Steel, Gray",General,25.5,2.8333333333333335,8.5,6
+"Safco Value Mate Steel Bookcase, Baked Enamel Finish on Steel, Black",General,21.0,4.666666666666667,7.0,5
+"Safco Wire Cube Shelving System, For Use as 4 or 5 14"" Cubes, Black",General,19.5,3.25,6.5,4
+Samsung Convoy 3,General,13.5,4.5,4.5,6
+Samsung Galaxy Mega 6.3,General,58.5,6.5,19.5,6
+Samsung Galaxy Note 2,General,21.0,7.0,7.0,3
+Samsung Galaxy Note 3,General,19.5,4.333333333333333,6.5,6
+Samsung Galaxy S III - 16GB - pebble blue (T-Mobile),General,42.0,4.666666666666667,14.0,3
+Samsung Galaxy S4,General,19.5,2.6,6.5,3
+Samsung Galaxy S4 Active,General,12.0,4.0,4.0,7
+Samsung Galaxy S4 Mini,General,22.5,3.0,7.5,4
+Samsung HM1900 Bluetooth Headset,General,40.5,3.857142857142857,13.5,7
+Samsung Replacement EH64AVFWE Premium Headset,General,31.5,4.2,10.5,6
+Samsung Rugby III,General,36.0,3.0,12.0,5
+SanDisk Cruzer 16 GB USB Flash Drive,General,15.0,3.3333333333333335,5.0,5
+SanDisk Cruzer 32 GB USB Flash Drive,General,30.0,3.3333333333333335,10.0,6
+SanDisk Cruzer 4 GB USB Flash Drive,General,7.5,2.5,2.5,7
+SanDisk Cruzer 64 GB USB Flash Drive,General,51.0,3.7777777777777777,17.0,6
+SanDisk Cruzer 8 GB USB Flash Drive,General,6.0,4.0,2.0,4
+SanDisk Ultra 16 GB MicroSDHC Class 10 Memory Card,General,46.5,4.428571428571429,15.5,5
+SanDisk Ultra 32 GB MicroSDHC Class 10 Memory Card,General,66.0,4.0,22.0,3
+SanDisk Ultra 64 GB MicroSDHC Class 10 Memory Card,General,37.5,4.166666666666667,12.5,3
+Sanford 52201 APSCO Electric Pencil Sharpener,General,21.0,3.5,7.0,3
+"Sanford Colorific Colored Pencils, 12/Box",General,39.0,5.2,13.0,6
+"Sanford Colorific Eraseable Coloring Pencils, 12 Count",General,22.5,3.75,7.5,4
+"Sanford Colorific Scented Colored Pencils, 12/Pack",General,16.5,5.5,5.5,3
+"Sanford EarthWrite Recycled Pencils, Medium Soft, #2",General,21.0,4.666666666666667,7.0,3
+Sanford Liquid Accent Highlighters,General,36.0,4.8,12.0,6
+Sanford Pocket Accent Highlighters,General,21.0,4.666666666666667,7.0,7
+"Sanford Prismacolor Professional Thick Lead Art Pencils, 36-Color Set",General,10.5,2.3333333333333335,3.5,6
+"Sanford Uni-Blazer View Highlighters, Chisel Tip, Yellow",General,21.0,4.666666666666667,7.0,5
+"Sanitaire Vibra Groomer IR Commercial Upright Vacuum, Replacement Belts",General,7.5,5.0,2.5,6
+Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,General,12.0,4.0,4.0,6
+Sanyo 2.5 Cubic Foot Mid-Size Office Refrigerators,General,25.5,4.25,8.5,6
+"Sanyo Counter Height Refrigerator with Crisper, 3.6 Cubic Foot, Stainless Steel/Black",General,27.0,6.0,9.0,5
+Satellite Sectional Post Binders,General,57.0,3.4545454545454546,19.0,6
+Sauder Barrister Bookcases,General,24.0,5.333333333333333,8.0,7
+"Sauder Camden County Barrister Bookcase, Planked Cherry Finish",General,15.0,3.3333333333333335,5.0,3
+"Sauder Camden County Collection Libraries, Planked Cherry Finish",General,28.5,2.7142857142857144,9.5,7
+Sauder Camden County Collection Library,General,24.0,8.0,8.0,3
+Sauder Cornerstone Collection Library,General,21.0,4.666666666666667,7.0,3
+"Sauder Facets Collection Library, Sky Alder Finish",General,15.0,2.5,5.0,4
+"Sauder Facets Collection Locker/File Cabinet, Sky Alder Finish",General,7.5,2.5,2.5,6
+"Sauder Forest Hills Library with Doors, Woodland Oak Finish",General,15.0,3.3333333333333335,5.0,3
+"Sauder Forest Hills Library, Woodland Oak Finish",General,22.5,3.75,7.5,4
+Sauder Inglewood Library Bookcases,General,21.0,2.8,7.0,3
+"Sauder Mission Library with Doors, Fruitwood Finish",General,15.0,3.3333333333333335,5.0,7
+Security-Tint Envelopes,General,34.5,2.5555555555555554,11.5,3
+Seidio BD2-HK3IPH5-BK DILEX Case and Holster Combo for Apple iPhone 5/5s - Black,General,16.5,3.6666666666666665,5.5,7
+Self-Adhesive Address Labels for Typewriters by Universal,General,34.5,3.2857142857142856,11.5,4
+Self-Adhesive Address Labels for Typewriters with Dispenser Box,General,13.5,4.5,4.5,3
+Self-Adhesive Removable Labels,General,52.5,5.0,17.5,7
+Self-Adhesive Ring Binder Labels,General,16.5,2.75,5.5,4
+Sensible Storage WireTech Storage Systems,General,57.0,4.75,19.0,5
+Serrated Blade or Curved Handle Hand Letter Openers,General,13.5,4.5,4.5,7
+"Seth Thomas 12"" Clock w/ Goldtone Case",General,25.5,5.666666666666667,8.5,7
+"Seth Thomas 13 1/2"" Wall Clock",General,30.0,4.0,10.0,6
+"Seth Thomas 14"" Day/Date Wall Clock",General,25.5,2.8333333333333335,8.5,6
+"Seth Thomas 14"" Putty-Colored Wall Clock",General,19.5,3.25,6.5,4
+"Seth Thomas 16"" Steel Case Clock",General,28.5,3.8,9.5,6
+"Seth Thomas 8 1/2"" Cubicle Clock",General,16.5,2.75,5.5,5
+Sharp 1540cs Digital Laser Copier,General,15.0,1.4285714285714286,5.0,4
+Sharp AL-1530CS Digital Copier,General,25.5,4.25,8.5,3
+Shocksock Galaxy S4 Armband,General,10.5,2.3333333333333335,3.5,6
+ShoreTel ShorePhone IP 230 VoIP phone,General,31.5,5.25,10.5,3
+"SimpliFile Personal File, Black Granite, 15w x 6-15/16d x 11-1/4h",General,48.0,4.0,16.0,3
+"Situations Contoured Folding Chairs, 4/Set",General,96.0,4.266666666666667,32.0,3
+"SlimView Poly Binder, 3/8""",General,60.0,5.714285714285714,20.0,5
+"SmartStand Mobile Device Holder, Assorted Colors",General,19.5,4.333333333333333,6.5,7
+Smead Adjustable Mobile File Trolley with Lockable Top,General,18.0,4.0,6.0,4
+Smead Alpha-Z Color-Coded Name Labels First Letter Starter Set,General,30.0,4.0,10.0,5
+Smead Alpha-Z Color-Coded Second Alphabetical Labels and Starter Set,General,24.0,3.2,8.0,6
+"Snap-A-Way Black Print Carbonless Ruled Speed Letter, Triplicate",General,42.0,4.666666666666667,14.0,4
+"Snap-A-Way Black Print Carbonless Speed Message, No Reply Area, Duplicate",General,6.0,4.0,2.0,3
+Socket Bluetooth Cordless Hand Scanner (CHS),General,4.5,3.0,1.5,7
+Sony 16GB Class 10 Micro SDHC R40 Memory Card,General,24.0,4.0,8.0,3
+Sony 32GB Class 10 Micro SDHC R40 Memory Card,General,18.0,3.0,6.0,3
+Sony 64GB Class 10 Micro SDHC R40 Memory Card,General,40.5,3.0,13.5,3
+Sony 8GB Class 10 Micro SDHC R40 Memory Card,General,4.5,3.0,1.5,6
+Sony Micro Vault Click 16 GB USB 2.0 Flash Drive,General,43.5,3.2222222222222223,14.5,5
+Sony Micro Vault Click 4 GB USB 2.0 Flash Drive,General,27.0,6.0,9.0,3
+Sony Micro Vault Click 8 GB USB 2.0 Flash Drive,General,19.5,3.25,6.5,3
+"Sortfiler Multipurpose Personal File Organizer, Black",General,36.0,4.0,12.0,5
+Southworth 100% Cotton The Best Paper,General,22.5,5.0,7.5,7
+"Southworth 100% Résumé Paper, 24lb.",General,52.5,5.0,17.5,7
+Southworth 25% Cotton Antique Laid Paper & Envelopes,General,39.0,5.2,13.0,6
+Southworth 25% Cotton Granite Paper & Envelopes,General,10.5,2.3333333333333335,3.5,6
+Southworth 25% Cotton Linen-Finish Paper & Envelopes,General,30.0,5.0,10.0,7
+Southworth 25% Cotton Premium Laser Paper and Envelopes,General,42.0,5.6,14.0,5
+Southworth Parchment Paper & Envelopes,General,22.5,2.5,7.5,5
+Southworth Structures Collection,General,15.0,5.0,5.0,4
+Space Solutions Commercial Steel Shelving,General,49.5,4.714285714285714,16.5,6
+Space Solutions HD Industrial Steel Shelving.,General,40.5,3.375,13.5,3
+Space Solutions Industrial Galvanized Steel Shelving.,General,10.5,2.3333333333333335,3.5,5
+Speck Products Candyshell Flip Case,General,12.0,2.0,4.0,3
+"Speediset Carbonless Redi-Letter 7"" x 8 1/2""",General,28.5,3.8,9.5,3
+Spigen Samsung Galaxy S5 Case Wallet,General,22.5,3.0,7.5,4
+SpineVue Locking Slant-D Ring Binders by Cardinal,General,33.0,2.75,11.0,7
+Spiral Phone Message Books with Labels by Adams,General,22.5,3.75,7.5,6
+Square Credit Card Reader,General,33.0,3.142857142857143,11.0,6
+"Square Credit Card Reader, 4 1/2"" x 4 1/2"" x 1"", White",General,40.5,5.4,13.5,5
+"Square Ring Data Binders, Rigid 75 Pt. Covers, 11"" x 14-7/8""",General,33.0,3.142857142857143,11.0,6
+Stackable Trays,General,34.5,3.2857142857142856,11.5,4
+"Stacking Tray, Side-Loading, Legal, Smoke",General,24.0,4.0,8.0,7
+Stacking Trays by OIC,General,28.5,3.1666666666666665,9.5,4
+Standard Line While You Were Out Hardbound Telephone Message Book,General,16.5,5.5,5.5,6
+Standard Rollaway File with Lock,General,60.0,4.0,20.0,4
+Stanley Bostitch Contemporary Electric Pencil Sharpeners,General,28.5,2.7142857142857144,9.5,6
+Stanley Contemporary Battery Pencil Sharpeners,General,36.0,6.0,12.0,4
+Staple envelope,General,255.0,3.5416666666666665,85.0,3
+Staple holder,General,78.0,4.0,26.0,7
+Staple magnet,General,49.5,3.3,16.5,5
+Staple remover,General,91.5,3.388888888888889,30.5,4
+Staple-based wall hangings,General,93.0,3.875,31.0,4
+Staple-on labels,General,31.5,4.2,10.5,5
+Staples,General,322.5,4.673913043478261,107.5,5
+Staples in misc. colors,General,129.0,4.526315789473684,43.0,7
+Star Micronics TSP100 TSP143LAN Receipt Printer,General,6.0,4.0,2.0,6
+Star Micronics TSP800 TSP847IIU Receipt Printer,General,6.0,2.0,2.0,4
+StarTech.com 10/100 VDSL2 Ethernet Extender Kit,General,19.5,3.25,6.5,3
+Steel Personal Filing/Posting Tote,General,43.5,5.8,14.5,7
+Sterilite Officeware Hinged File Box,General,52.5,3.1818181818181817,17.5,3
+Sterilite Show Offs Storage Containers,General,24.0,3.2,8.0,7
+Sterling Rubber Bands by Alliance,General,7.5,2.5,2.5,3
+Stiletto Hand Letter Openers,General,25.5,4.25,8.5,5
+Stockwell Gold Paper Clips,General,7.5,2.5,2.5,7
+Stockwell Push Pins,General,51.0,4.25,17.0,4
+Storex Dura Pro Binders,General,106.5,4.176470588235294,35.5,4
+Storex DuraTech Recycled Plastic Frosted Binders,General,58.5,4.875,19.5,3
+Storex Flexible Poly Binders with Double Pockets,General,13.5,3.0,4.5,6
+"Strathmore #10 Envelopes, Ultimate White",General,18.0,3.0,6.0,5
+Strathmore Photo Frame Cards,General,24.0,4.0,8.0,4
+Strathmore Photo Mount Cards,General,57.0,4.222222222222222,19.0,3
+"Stride Job 150 Highlighters, Chisel Tip, Assorted Colors",General,4.5,3.0,1.5,6
+"Stur-D-Stor Shelving, Vertical 5-Shelf: 72""H x 36""W x 18 1/2""D",General,34.5,4.6,11.5,4
+"Super Bands, 12/Pack",General,30.0,5.0,10.0,5
+Super Decoflex Portable Personal File,General,19.5,2.6,6.5,3
+Surelock Post Binders,General,43.5,3.625,14.5,3
+Swingline SM12-08 MicroCut Jam Free Shredder,General,19.5,4.333333333333333,6.5,7
+"TOPS ""Important Message"" Pads, Canary, 4-1/4 x 5-1/2, 50 Sheets per Pad",General,25.5,5.666666666666667,8.5,5
+"TOPS 4 x 6 Fluorescent Color Memo Sheets, 500 Sheets per Pack",General,19.5,4.333333333333333,6.5,3
+"TOPS Carbonless Receipt Book, Four 2-3/4 x 7-1/4 Money Receipts per Page",General,37.5,6.25,12.5,6
+"TOPS Money Receipt Book, Consecutively Numbered in Red,",General,16.5,5.5,5.5,4
+"TOPS Voice Message Log Book, Flash Format",General,18.0,4.0,6.0,4
+"TRENDnet 56K USB 2.0 Phone, Internet and Fax Modem",General,37.5,5.0,12.5,6
+"Telephone Message Books with Fax/Mobile Section, 4 1/4"" x 6""",General,22.5,5.0,7.5,4
+"Telephone Message Books with Fax/Mobile Section, 5 1/2"" x 3 3/16""",General,25.5,2.8333333333333335,8.5,5
+Telescoping Adjustable Floor Lamp,General,15.0,1.6666666666666667,5.0,7
+"Tenex ""The Solids"" Textured Chair Mats",General,39.0,3.7142857142857144,13.0,5
+"Tenex 46"" x 60"" Computer Anti-Static Chairmat, Rectangular Shaped",General,37.5,3.5714285714285716,12.5,6
+Tenex Antistatic Computer Chair Mats,General,37.5,4.166666666666667,12.5,7
+Tenex B1-RE Series Chair Mats for Low Pile Carpets,General,34.5,3.2857142857142856,11.5,3
+"Tenex Carpeted, Granite-Look or Clear Contemporary Contour Shape Chair Mats",General,22.5,3.0,7.5,7
+"Tenex Chairmat w/ Average Lip, 45"" x 53""",General,28.5,4.75,9.5,7
+Tenex Chairmats For Use With Carpeted Floors,General,16.5,2.75,5.5,6
+Tenex Chairmats For Use with Hard Floors,General,30.0,3.3333333333333335,10.0,6
+"Tenex Contemporary Contur Chairmats for Low and Medium Pile Carpet, Computer, 39"" x 49""",General,15.0,2.5,5.0,7
+"Tenex File Box, Personal Filing Tote with Lid, Black",General,36.0,3.4285714285714284,12.0,7
+"Tenex Personal Filing Tote With Secure Closure Lid, Black/Frost",General,33.0,4.4,11.0,4
+"Tenex Personal Project File with Scoop Front Design, Black",General,60.0,4.0,20.0,3
+"Tenex Personal Self-Stacking Standard File Box, Black/Gray",General,22.5,3.0,7.5,6
+"Tenex Traditional Chairmats for Hard Floors, Average Lip, 36"" x 48""",General,6.0,2.0,2.0,4
+"Tenex Traditional Chairmats for Medium Pile Carpet, Standard Lip, 36"" x 48""",General,36.0,4.0,12.0,6
+"Tenex V2T-RE Standard Weight Series Chair Mat, 45"" x 53"", Lip 25"" x 12""",General,10.5,2.3333333333333335,3.5,5
+Tennsco 16-Compartment Lockers with Coat Rack,General,19.5,2.6,6.5,6
+Tennsco 6- and 18-Compartment Lockers,General,64.5,3.909090909090909,21.5,7
+Tennsco Commercial Shelving,General,31.5,2.3333333333333335,10.5,3
+Tennsco Double-Tier Lockers,General,70.5,3.9166666666666665,23.5,6
+Tennsco Industrial Shelving,General,43.5,3.2222222222222223,14.5,3
+"Tennsco Lockers, Gray",General,33.0,3.6666666666666665,11.0,4
+"Tennsco Lockers, Sand",General,33.0,4.4,11.0,6
+Tennsco Regal Shelving Units,General,27.0,4.5,9.0,6
+Tennsco Single-Tier Lockers,General,42.0,3.5,14.0,7
+"Tennsco Snap-Together Open Shelving Units, Starter Sets and Add-On Units",General,37.5,4.166666666666667,12.5,3
+"Tennsco Stur-D-Stor Boltless Shelving, 5 Shelves, 24"" Deep, Sand",General,49.5,4.714285714285714,16.5,5
+"Tensor ""Hersey Kiss"" Styled Floor Lamp",General,12.0,2.6666666666666665,4.0,6
+Tensor Brushed Steel Torchiere Floor Lamp,General,15.0,2.5,5.0,3
+Tensor Computer Mounted Lamp,General,54.0,4.5,18.0,6
+Tensor Track Tree Floor Lamp,General,25.5,4.25,8.5,6
+Texas Instrument TI-15 Fraction Calculator,General,12.0,4.0,4.0,7
+Texas Instruments TI-34 Scientific Calculator,General,18.0,4.0,6.0,4
+Things To Do Today Pad,General,39.0,3.7142857142857144,13.0,3
+Things To Do Today Spiral Book,General,19.5,4.333333333333333,6.5,3
+Tops Green Bar Computer Printout Paper,General,10.5,2.3333333333333335,3.5,5
+Tops White Computer Printout Paper,General,21.0,3.5,7.0,7
+Tops Wirebound Message Log Books,General,37.5,4.166666666666667,12.5,6
+Toshiba IPT2010-SD IP Telephone,General,46.5,3.875,15.5,7
+Translucent Push Pins by OIC,General,22.5,5.0,7.5,7
+"Trav-L-File Heavy-Duty Shuttle II, Black",General,45.0,4.285714285714286,15.0,6
+Trimflex Flexible Post Binders,General,31.5,5.25,10.5,6
+Tripp Lite Isotel 6 Outlet Surge Protector with Fax/Modem Protection,General,40.5,4.5,13.5,5
+Tripp Lite Isotel 8 Ultra 8 Outlet Metal Surge,General,24.0,5.333333333333333,8.0,7
+Tripp Lite TLP810NET Broadband Surge for Modem/Fax,General,33.0,3.6666666666666665,11.0,6
+Tuf-Vin Binders,General,39.0,3.7142857142857144,13.0,4
+Tuff Stuff Recycled Round Ring Binders,General,34.5,2.5555555555555554,11.5,5
+Turquoise Lead Holder with Pocket Clip,General,9.0,2.0,3.0,3
+"Tyvek  Top-Opening Peel & Seel  Envelopes, Gray",General,25.5,5.666666666666667,8.5,6
+"Tyvek  Top-Opening Peel & Seel Envelopes, Plain White",General,36.0,3.4285714285714284,12.0,7
+"Tyvek Interoffice Envelopes, 9 1/2"" x 12 1/2"", 100/Box",General,24.0,3.2,8.0,3
+Tyvek Side-Opening Peel & Seel Expanding Envelopes,General,21.0,2.8,7.0,3
+Ultra Commercial Grade Dual Valve Door Closer,General,3.0,2.0,1.0,5
+"Ultra Door Kickplate, 8""H x 34""W",General,15.0,5.0,5.0,5
+Ultra Door Pull Handle,General,40.5,4.5,13.5,7
+Ultra Door Push Plate,General,51.0,4.857142857142857,17.0,5
+UniKeep View Case Binders,General,19.5,2.6,6.5,6
+Universal Premium White Copier/Laser Paper (20Lb. and 87 Bright),General,36.0,4.8,12.0,3
+"Universal Recycled Hanging Pressboard Report Binders, Letter Size",General,30.0,4.0,10.0,6
+"Universal Ultra Bright White Copier/Laser Paper, 8 1/2"" x 11"", Ream",General,4.5,3.0,1.5,3
+Unpadded Memo Slips,General,7.5,2.5,2.5,7
+V7 USB Numeric Keypad,General,24.0,4.0,8.0,4
+VTech DS6151,General,37.5,3.125,12.5,7
+VariCap6 Expandable Binder,General,15.0,3.3333333333333335,5.0,5
+"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 1/Pack",General,21.0,4.666666666666667,7.0,7
+"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 10/Pack",General,21.0,2.8,7.0,5
+"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 25/Pack",General,18.0,2.4,6.0,4
+"Verbatim 25 GB 6x Blu-ray Single Layer Recordable Disc, 3/Pack",General,45.0,5.0,15.0,4
+"Verbatim Slim CD and DVD Storage Cases, 50/Pack",General,12.0,2.0,4.0,7
+"Vinyl Coated Wire Paper Clips in Organizer Box, 800/Box",General,43.5,3.625,14.5,7
+Vinyl Sectional Post Binders,General,60.0,3.6363636363636362,20.0,5
+"Vtech AT&T CL2940 Corded Speakerphone, Black",General,4.5,3.0,1.5,7
+Vtech CS6719,General,48.0,4.571428571428571,16.0,7
+WD My Passport Ultra 1TB Portable External Hard Drive,General,25.5,2.8333333333333335,8.5,7
+WD My Passport Ultra 2TB Portable External Hard Drive,General,52.5,4.375,17.5,6
+WD My Passport Ultra 500GB Portable External Hard Drive,General,18.0,3.0,6.0,5
+Wasp CCD Handheld Bar Code Reader,General,4.5,3.0,1.5,5
+Wausau Papers Astrobrights Colored Envelopes,General,13.5,3.0,4.5,5
+Westinghouse Clip-On Gooseneck Lamps,General,57.0,4.222222222222222,19.0,4
+"Westinghouse Floor Lamp with Metal Mesh Shade, Black",General,10.5,1.75,3.5,7
+"Westinghouse Mesh Shade Clip-On Gooseneck Lamp, Black",General,9.0,3.0,3.0,5
+Weyerhaeuser First Choice Laser/Copy Paper (20Lb. and 88 Bright),General,37.5,5.0,12.5,3
+"While You Were Out Pads, 50 per Pad, 4 x 5 1/4, Green Cycle",General,19.5,3.25,6.5,7
+"White Business Envelopes with Contemporary Seam, Recycled White Business Envelopes",General,51.0,5.666666666666667,17.0,3
+White Computer Printout Paper by Universal,General,55.5,4.625,18.5,7
+"White Dual Perf Computer Printout Paper, 2700 Sheets, 1 Part, Heavyweight, 20 lbs., 14 7/8 x 11",General,36.0,4.0,12.0,3
+"White Envelopes, White Envelopes with Clear Poly Window",General,33.0,4.4,11.0,7
+White GlueTop Scratch Pads,General,21.0,7.0,7.0,5
+Wi-Ex zBoost YX540 Cellular Phone Signal Booster,General,28.5,3.1666666666666665,9.5,4
+Wilson Electronics DB Pro Signal Booster,General,48.0,3.2,16.0,7
+"Wilson Jones 1"" Hanging DublLock Ring Binders",General,69.0,4.6,23.0,4
+Wilson Jones 14 Line Acrylic Coated Pressboard Data Binders,General,34.5,5.75,11.5,7
+Wilson Jones Active Use Binders,General,31.5,3.5,10.5,6
+Wilson Jones Century Plastic Molded Ring Binders,General,72.0,4.8,24.0,4
+"Wilson Jones Clip & Carry Folder Binder Tool for Ring Binders, Clear",General,70.5,5.222222222222222,23.5,4
+Wilson Jones Custom Binder Spines & Labels,General,33.0,3.142857142857143,11.0,5
+Wilson Jones DublLock D-Ring Binders,General,9.0,3.0,3.0,3
+Wilson Jones Easy Flow II Sheet Lifters,General,73.5,4.083333333333333,24.5,5
+"Wilson Jones Elliptical Ring 3 1/2"" Capacity Binders, 800 sheets",General,63.0,5.25,21.0,7
+Wilson Jones Four-Pocket Poly Binders,General,25.5,4.25,8.5,4
+Wilson Jones Hanging Recycled Pressboard Data Binders,General,6.0,2.0,2.0,6
+"Wilson Jones Hanging View Binder, White, 1""",General,34.5,3.2857142857142856,11.5,4
+Wilson Jones Heavy-Duty Casebound Ring Binders with Metal Hinges,General,33.0,3.6666666666666665,11.0,5
+Wilson Jones Impact Binders,General,63.0,4.666666666666667,21.0,5
+Wilson Jones International Size A4 Ring Binders,General,27.0,2.5714285714285716,9.0,3
+Wilson Jones Leather-Like Binders with DublLock Round Rings,General,69.0,3.8333333333333335,23.0,6
+"Wilson Jones Ledger-Size, Piano-Hinge Binder, 2"", Blue",General,70.5,3.9166666666666665,23.5,5
+Wilson Jones Legal Size Ring Binders,General,66.0,4.888888888888889,22.0,6
+Wilson Jones Standard D-Ring Binders,General,39.0,3.25,13.0,3
+Wilson Jones Suede Grain Vinyl Binders,General,12.0,2.6666666666666665,4.0,5
+Wilson Jones Turn Tabs Binder Tool for Ring Binders,General,88.5,4.538461538461538,29.5,6
+Wilson Jones data.warehouse D-Ring Binders with DublLock,General,18.0,2.4,6.0,3
+Wilson Jones Snap Scratch Pad Binder Tool for Ring Binders,General,33.0,4.4,11.0,6
+Wilson SignalBoost 841262 DB PRO Amplifier Kit,General,25.5,2.8333333333333335,8.5,3
+"Wirebound Four 2-3/4 x 5 Forms per Page, 400 Sets per Book",General,33.0,3.6666666666666665,11.0,5
+"Wirebound Message Book, 4 per Page",General,52.5,5.0,17.5,6
+"Wirebound Message Books, 2 7/8"" x 5"", 3 Forms per Page",General,25.5,5.666666666666667,8.5,6
+"Wirebound Message Books, 5-1/2 x 4 Forms, 2 or 4 Forms per Page",General,18.0,4.0,6.0,5
+"Wirebound Message Books, Four 2 3/4 x 5 Forms per Page, 200 Sets per Book",General,39.0,4.333333333333333,13.0,7
+"Wirebound Message Books, Four 2 3/4 x 5 White Forms per Page",General,51.0,4.857142857142857,17.0,4
+"Wirebound Message Books, Four 2 3/4"" x 5"" Forms per Page, 600 Sets per Book",General,42.0,3.111111111111111,14.0,3
+"Wirebound Message Books, Two 4 1/4"" x 5"" Forms per Page",General,22.5,2.5,7.5,6
+"Wirebound Message Forms, Four 2 3/4 x 5 Forms per Page, Pink Paper",General,7.5,2.5,2.5,3
+"Wirebound Service Call Books, 5 1/2"" x 4""",General,19.5,2.6,6.5,3
+Wirebound Voice Message Log Book,General,6.0,2.0,2.0,4
+Wireless Extenders zBoost YX545 SOHO Signal Booster,General,36.0,3.4285714285714284,12.0,4
+Woodgrain Magazine Files by Perma,General,36.0,4.0,12.0,4
+X-Rack File for Hanging Folders,General,45.0,3.3333333333333335,15.0,3
+Xblue XB-1670-86 X16 Small Office Telephone - Titanium,General,7.5,2.5,2.5,3
+Xerox 188,General,30.0,2.5,10.0,5
+Xerox 1880,General,27.0,3.6,9.0,4
+Xerox 1881,General,57.0,3.1666666666666665,19.0,4
+Xerox 1882,General,18.0,2.4,6.0,4
+Xerox 1883,General,55.5,5.285714285714286,18.5,6
+Xerox 1884,General,48.0,4.0,16.0,5
+Xerox 1885,General,30.0,4.0,10.0,7
+Xerox 1886,General,21.0,2.8,7.0,5
+Xerox 1887,General,45.0,3.75,15.0,5
+Xerox 1888,General,36.0,4.0,12.0,4
+Xerox 1889,General,15.0,3.3333333333333335,5.0,4
+Xerox 189,General,28.5,3.1666666666666665,9.5,4
+Xerox 1890,General,7.5,2.5,2.5,6
+Xerox 1891,General,45.0,4.285714285714286,15.0,7
+Xerox 1892,General,7.5,2.5,2.5,4
+Xerox 1893,General,58.5,3.5454545454545454,19.5,5
+Xerox 1894,General,40.5,5.4,13.5,3
+Xerox 1895,General,49.5,4.714285714285714,16.5,3
+Xerox 1896,General,7.5,2.5,2.5,4
+Xerox 1897,General,24.0,4.0,8.0,5
+Xerox 1898,General,69.0,4.181818181818182,23.0,7
+Xerox 1899,General,21.0,2.8,7.0,4
+Xerox 19,General,22.5,3.75,7.5,5
+Xerox 190,General,9.0,3.0,3.0,3
+Xerox 1900,General,39.0,3.7142857142857144,13.0,3
+Xerox 1901,General,6.0,4.0,2.0,3
+Xerox 1902,General,6.0,2.0,2.0,7
+Xerox 1903,General,36.0,4.0,12.0,5
+Xerox 1905,General,34.5,4.6,11.5,5
+Xerox 1906,General,48.0,4.571428571428571,16.0,6
+Xerox 1907,General,15.0,3.3333333333333335,5.0,6
+Xerox 1908,General,48.0,4.571428571428571,16.0,7
+Xerox 1909,General,60.0,4.444444444444445,20.0,6
+Xerox 191,General,58.5,3.9,19.5,4
+Xerox 1910,General,21.0,2.8,7.0,5
+Xerox 1911,General,19.5,2.6,6.5,6
+Xerox 1912,General,16.5,2.75,5.5,7
+Xerox 1913,General,25.5,3.4,8.5,5
+Xerox 1914,General,28.5,3.8,9.5,4
+Xerox 1915,General,42.0,3.111111111111111,14.0,4
+Xerox 1916,General,30.0,2.857142857142857,10.0,6
+Xerox 1917,General,37.5,5.0,12.5,4
+Xerox 1918,General,6.0,4.0,2.0,5
+Xerox 1919,General,60.0,4.444444444444445,20.0,6
+Xerox 192,General,33.0,3.6666666666666665,11.0,6
+Xerox 1920,General,22.5,3.75,7.5,7
+Xerox 1921,General,10.5,2.3333333333333335,3.5,5
+Xerox 1922,General,4.5,3.0,1.5,6
+Xerox 1923,General,24.0,3.2,8.0,4
+Xerox 1924,General,18.0,3.0,6.0,6
+Xerox 1925,General,27.0,3.0,9.0,4
+Xerox 1926,General,10.5,7.0,3.5,7
+Xerox 1927,General,27.0,3.6,9.0,5
+Xerox 1928,General,39.0,6.5,13.0,6
+Xerox 1929,General,24.0,4.0,8.0,5
+Xerox 193,General,19.5,4.333333333333333,6.5,7
+Xerox 1930,General,36.0,4.8,12.0,4
+Xerox 1931,General,54.0,4.5,18.0,5
+Xerox 1932,General,4.5,3.0,1.5,6
+Xerox 1933,General,36.0,4.8,12.0,3
+Xerox 1934,General,30.0,4.0,10.0,3
+Xerox 1935,General,31.5,5.25,10.5,4
+Xerox 1936,General,13.5,3.0,4.5,7
+Xerox 1937,General,18.0,3.0,6.0,6
+Xerox 1938,General,10.5,7.0,3.5,5
+Xerox 1939,General,33.0,4.4,11.0,5
+Xerox 194,General,13.5,2.25,4.5,6
+Xerox 1940,General,18.0,3.0,6.0,3
+Xerox 1941,General,28.5,3.8,9.5,4
+Xerox 1942,General,19.5,2.1666666666666665,6.5,5
+Xerox 1943,General,24.0,4.0,8.0,5
+Xerox 1944,General,24.0,2.6666666666666665,8.0,6
+Xerox 1945,General,67.5,5.625,22.5,3
+Xerox 1946,General,19.5,4.333333333333333,6.5,3
+Xerox 1947,General,37.5,5.0,12.5,6
+Xerox 1948,General,22.5,5.0,7.5,7
+Xerox 1949,General,42.0,3.5,14.0,6
+Xerox 195,General,40.5,3.375,13.5,5
+Xerox 1950,General,13.5,3.0,4.5,6
+Xerox 1951,General,45.0,5.0,15.0,3
+Xerox 1952,General,30.0,5.0,10.0,5
+Xerox 1953,General,18.0,3.0,6.0,5
+Xerox 1954,General,27.0,4.5,9.0,7
+Xerox 1955,General,15.0,5.0,5.0,4
+Xerox 1956,General,24.0,8.0,8.0,4
+Xerox 1957,General,25.5,2.8333333333333335,8.5,6
+Xerox 1958,General,7.5,2.5,2.5,5
+Xerox 1959,General,31.5,3.5,10.5,6
+Xerox 196,General,27.0,2.25,9.0,7
+Xerox 1960,General,48.0,5.333333333333333,16.0,7
+Xerox 1962,General,42.0,4.0,14.0,6
+Xerox 1963,General,25.5,5.666666666666667,8.5,5
+Xerox 1964,General,49.5,6.6,16.5,3
+Xerox 1965,General,15.0,2.5,5.0,6
+Xerox 1966,General,21.0,2.3333333333333335,7.0,4
+Xerox 1967,General,22.5,3.0,7.5,7
+Xerox 1968,General,39.0,5.2,13.0,5
+Xerox 1969,General,3.0,2.0,1.0,5
+Xerox 197,General,27.0,6.0,9.0,5
+Xerox 1970,General,33.0,3.6666666666666665,11.0,5
+Xerox 1971,General,42.0,4.666666666666667,14.0,6
+Xerox 1972,General,15.0,2.0,5.0,7
+Xerox 1973,General,12.0,4.0,4.0,3
+Xerox 1974,General,15.0,2.5,5.0,6
+Xerox 1975,General,18.0,2.4,6.0,6
+Xerox 1976,General,10.5,3.5,3.5,6
+Xerox 1977,General,30.0,3.3333333333333335,10.0,3
+Xerox 1978,General,51.0,4.25,17.0,3
+Xerox 1979,General,16.5,3.6666666666666665,5.5,5
+Xerox 198,General,24.0,5.333333333333333,8.0,5
+Xerox 1980,General,12.0,4.0,4.0,7
+Xerox 1981,General,21.0,3.5,7.0,7
+Xerox 1982,General,18.0,4.0,6.0,6
+Xerox 1983,General,7.5,2.5,2.5,4
+Xerox 1984,General,3.0,2.0,1.0,4
+Xerox 1985,General,7.5,2.5,2.5,7
+Xerox 1986,General,19.5,3.25,6.5,7
+Xerox 1987,General,24.0,4.0,8.0,7
+Xerox 1988,General,61.5,4.555555555555555,20.5,3
+Xerox 1989,General,3.0,2.0,1.0,7
+Xerox 199,General,24.0,4.0,8.0,3
+Xerox 1990,General,12.0,4.0,4.0,6
+Xerox 1991,General,39.0,4.333333333333333,13.0,6
+Xerox 1992,General,22.5,3.75,7.5,5
+Xerox 1993,General,36.0,3.0,12.0,5
+Xerox 1994,General,19.5,3.25,6.5,4
+Xerox 1995,General,33.0,3.6666666666666665,11.0,7
+Xerox 1996,General,42.0,3.5,14.0,5
+Xerox 1997,General,45.0,3.75,15.0,3
+Xerox 1998,General,13.5,4.5,4.5,3
+Xerox 1999,General,25.5,2.4285714285714284,8.5,6
+Xerox 2,General,37.5,2.7777777777777777,12.5,4
+Xerox 20,General,1.5,1.0,0.5,3
+Xerox 200,General,22.5,3.0,7.5,3
+Xerox 2000,General,21.0,2.8,7.0,5
+Xerox 201,General,28.5,3.8,9.5,3
+Xerox 202,General,42.0,3.5,14.0,7
+Xerox 203,General,36.0,4.0,12.0,3
+Xerox 204,General,25.5,4.25,8.5,3
+Xerox 205,General,36.0,6.0,12.0,7
+Xerox 206,General,16.5,2.2,5.5,4
+Xerox 207,General,10.5,3.5,3.5,4
+Xerox 208,General,13.5,4.5,4.5,3
+Xerox 209,General,43.5,5.8,14.5,4
+Xerox 21,General,36.0,3.4285714285714284,12.0,6
+Xerox 210,General,27.0,3.0,9.0,5
+Xerox 211,General,28.5,4.75,9.5,3
+Xerox 212,General,37.5,3.5714285714285716,12.5,7
+Xerox 213,General,27.0,3.0,9.0,3
+Xerox 214,General,55.5,4.111111111111111,18.5,6
+Xerox 215,General,10.5,3.5,3.5,4
+Xerox 216,General,63.0,5.25,21.0,7
+Xerox 217,General,37.5,3.125,12.5,3
+Xerox 218,General,12.0,1.6,4.0,6
+Xerox 219,General,22.5,3.75,7.5,3
+Xerox 22,General,19.5,4.333333333333333,6.5,5
+Xerox 220,General,37.5,3.125,12.5,5
+Xerox 221,General,21.0,3.5,7.0,3
+Xerox 222,General,33.0,3.142857142857143,11.0,4
+Xerox 223,General,13.5,3.0,4.5,7
+Xerox 224,General,25.5,2.8333333333333335,8.5,3
+Xerox 225,General,49.5,3.6666666666666665,16.5,7
+Xerox 226,General,79.5,4.818181818181818,26.5,5
+Xerox 227,General,33.0,2.75,11.0,4
+Xerox 228,General,22.5,3.75,7.5,5
+Xerox 229,General,22.5,5.0,7.5,7
+Xerox 23,General,34.5,3.8333333333333335,11.5,4
+Xerox 230,General,31.5,4.2,10.5,7
+Xerox 231,General,21.0,2.8,7.0,7
+Xerox 232,General,28.5,4.75,9.5,7
+Xerox 4200 Series MultiUse Premium Copy Paper (20Lb. and 84 Bright),General,45.0,3.75,15.0,6
+Xerox Blank Computer Paper,General,7.5,5.0,2.5,3
+"Xerox Color Copier Paper, 11"" x 17"", Ream",General,40.5,4.5,13.5,6
+Xerox WorkCentre 6505DN Laser Multifunction Printer,General,10.5,7.0,3.5,5
+Xiaomi Mi3,General,6.0,4.0,2.0,4
+"XtraLife ClearVue Slant-D Ring Binder, White, 3""",General,58.5,3.9,19.5,4
+XtraLife ClearVue Slant-D Ring Binders by Cardinal,General,33.0,4.4,11.0,4
+Zebra GK420t Direct Thermal/Thermal Transfer Printer,General,9.0,6.0,3.0,5
+Zebra GX420t Direct Thermal/Thermal Transfer Printer,General,21.0,4.666666666666667,7.0,3
+Zebra ZM400 Thermal Label Printer,General,9.0,3.0,3.0,6
+Zebra Zazzle Fluorescent Highlighters,General,30.0,3.3333333333333335,10.0,5
+Zipper Ring Binder Pockets,General,66.0,3.3846153846153846,22.0,4
+i.Sound Portable Power - 8000 mAh,General,13.5,1.8,4.5,5
+iHome FM Clock Radio with Lightning Dock,General,19.5,2.6,6.5,4
+"iKross Bluetooth Portable Keyboard + Cell Phone Stand Holder + Brush for Apple iPhone 5S 5C 5, 4S 4",General,36.0,4.8,12.0,4
+iOttie HLCRIO102 Car Mount,General,18.0,2.4,6.0,4
+iOttie XL Car Mount,General,21.0,7.0,7.0,5
+invisibleSHIELD by ZAGG Smudge-Free Screen Protector,General,43.5,4.142857142857143,14.5,6
+netTALK DUO VoIP Telephone Service,General,39.0,3.7142857142857144,13.0,5
