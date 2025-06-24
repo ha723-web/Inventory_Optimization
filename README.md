@@ -1,24 +1,20 @@
+### Inventory Optimization & Demand Forecasting System
 
-### 📄 `README.md` (Copy this to your file or GitHub)
-
-```markdown
-# 🧠 Inventory Optimization & Demand Forecasting System
-
-This project analyzes retail inventory trends, preprocesses store sales data, and applies demand forecasting techniques to optimize stock levels and reduce overstock or stockouts. It uses historical sales data to visualize patterns and forecast future demand.
+This project analyzes retail inventory trends, preprocesses store sales data, and applies demand forecasting techniques to optimize stock levels and reduce stockouts.
 
 ---
 
 ## 🚀 Features
 
-- 📊 Inventory analysis with visual insights
-- 🧹 Preprocessing of Superstore data
-- 📈 Forecasting top 20 SKUs based on historical demand
-- 📦 CSV-based input/output for easy integration
+- 📊 Inventory analysis with visual insights  
+- 🧹 Preprocessing of Superstore data  
+- 📈 Forecasting top 20 SKUs based on historical demand  
+- 📁 CSV-based input/output for easy integration  
 - 🖼️ Visual charts included (PNG outputs)
 
 ---
 
-## 🗂️ Folder Structure
+## 📁 Folder Structure
 
 ```
 
@@ -64,35 +60,28 @@ python demand_forecasting.py
 
 ---
 
-## 📦 Tech Stack
+## 🧰 Tech Stack
 
 * Python (Pandas, NumPy, Matplotlib)
-* Time Series Forecasting (e.g., moving average or Prophet-ready)
-* Data Preprocessing & Analysis
-* CSV/PNG outputs for easy integration
+* CSV and PNG handling
+* Demand forecasting logic (can be extended to Prophet or ARIMA)
+* Real-world business data analysis
 
 ---
 
-## 📈 Example Outputs
+## 🔮 Future Improvements
 
-* `Figure_1.png`: Inventory trend overview
-* `top20_forecast_horizontal.png`: Forecast of top 20 SKUs
-
----
-
-## 🌱 Future Improvements
-
-* Integrate with Streamlit for web-based interface
-* Use Prophet or ARIMA for better time series modeling
-* Real-time dashboard integration using Tableau or PowerBI
-* Add reorder-point alerts based on forecast
+* Streamlit dashboard for user interaction
+* Integration with Excel/Power BI
+* Automated reorder point calculation
 
 ---
 
 ## 👩‍💻 Author
 
 **Harshini Akunuri**
-🔗 [GitHub](https://github.com/ha723-web) | 💼 Data Science | Forecasting | Retail Analytics | Automation
+🔗 [GitHub](https://github.com/ha723-web) | 💼 Forecasting • Business Analytics • Python • Retail AI
+
 
 ---
 
