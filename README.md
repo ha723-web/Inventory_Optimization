@@ -1,4 +1,4 @@
-### Inventory Optimization & Demand Forecasting System
+### 🧠 Inventory Optimization & Demand Forecasting System
 
 This project analyzes retail inventory trends, preprocesses store sales data, and applies demand forecasting techniques to optimize stock levels and reduce stockouts.
 
